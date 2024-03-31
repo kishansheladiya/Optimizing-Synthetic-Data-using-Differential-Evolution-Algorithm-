@@ -1,0 +1,2307 @@
+area,total_Person,Single_Person,Two_Person,Three_Person,Four_Person,Five_Person,Six_Person
+"Frankenthal Pfalz, St.",21517,7996,7303,3100,2035,686,397
+"Kaiserslautern, St.",50816,23910,15722,5947,3691,1073,473
+"Koblenz, St.",55506,23892,18650,6672,4337,1316,639
+"Landau i. d. Pf., St.",20716,8183,6820,2849,2001,592,271
+"Ludwigshafen a. Rh., St.",74310,29369,23928,10008,6853,2603,1549
+"Mainz, St.",102528,47263,30875,12069,8137,2785,1399
+"Neustadt a. d. Weinstr., St.",24621,9145,8494,3394,2520,765,303
+"Pirmasens, St.",20494,8683,6851,2750,1534,459,217
+"Speyer, St.",23234,8771,8030,3210,2170,685,368
+"Trier, St.",55711,27273,16106,6459,3954,1303,616
+"Worms, St.",37125,14071,12509,5192,3618,1121,614
+"Zweibrücken, St.",15960,5748,5542,2464,1539,466,201
+"Bad Neuenahr-Ahrweiler, St.",13433,5540,4838,1513,1057,355,130
+Grafschaft,4465,1110,1614,795,658,226,62
+"Remagen, St.",7259,2667,2400,1027,736,284,145
+"Sinzig, St.",7585,2483,2672,1081,940,305,104
+"      Adenau, St.",1265,443,419,182,135,59,27
+      Antweiler,245,68,81,31,41,12,12
+      Aremberg,115,53,30,19,7,3,3
+      Barweiler,183,48,58,21,32,18,6
+      Bauler,28,11,3,7,0,7,0
+      Dankerath,39,17,6,10,3,3,0
+      Dorsel,98,27,38,15,12,3,3
+      Dümpelfeld,288,72,127,50,23,9,7
+      Eichenbach,46,15,22,3,6,0,0
+      Fuchshofen,52,11,26,12,3,0,0
+      Harscheid,58,19,24,9,6,0,0
+      Herschbroich,108,21,50,22,6,3,6
+      Hoffeld,143,54,47,21,12,6,3
+      Honerath,68,14,28,16,7,3,0
+      Hümmel,208,47,77,28,43,13,0
+      Insul,185,46,46,30,34,25,4
+      Kaltenborn,180,48,72,25,32,3,0
+      Kottenborn,74,13,24,18,16,3,0
+      Leimbach,218,61,70,57,27,0,3
+      Meuspath,77,22,32,3,17,0,3
+      Müllenbach,198,38,78,44,26,3,9
+      Müsch,88,29,26,12,15,3,3
+      Nürburg,68,27,9,16,10,3,3
+      Ohlenhard,74,24,29,7,14,0,0
+      Pomster,73,26,22,13,3,6,3
+      Quiddelbach,110,22,50,26,6,6,0
+      Reifferscheid,222,59,64,34,39,19,7
+      Rodder,105,28,23,34,14,3,3
+      Schuld,324,81,120,47,49,15,12
+      Senscheid,40,9,27,4,0,0,0
+      Sierscheid,48,9,18,6,6,9,0
+      Trierscheid,30,12,9,3,6,0,0
+      Wershofen,388,98,149,80,48,13,0
+      Wiesemscheid,106,36,19,21,13,17,0
+      Wimbach,212,75,61,41,26,6,3
+      Winnerath,81,21,31,13,13,3,0
+      Wirft,68,16,25,15,12,0,0
+      Ahrbrück,514,148,186,68,70,27,15
+      Altenahr,761,234,241,132,117,31,6
+      Berg,572,127,230,101,80,21,13
+      Dernau,781,227,312,100,96,39,7
+      Heckenbach,111,36,37,14,15,6,3
+      Hönningen,443,100,179,85,73,6,0
+      Kalenborn,280,75,110,52,30,9,4
+      Kesseling,272,84,101,35,37,12,3
+      Kirchsahr,202,61,93,10,24,4,10
+      Lind,241,60,93,49,20,13,6
+      Mayschoß,404,132,119,70,58,15,10
+      Rech,277,99,89,47,30,12,0
+"      Bad Breisig, St.",4377,1861,1465,503,352,115,81
+      Brohl-Lützing,1051,275,400,196,128,42,10
+      Gönnersdorf,247,59,88,35,54,8,3
+      Waldorf,358,89,141,58,55,12,3
+      Brenk,80,17,32,12,13,3,3
+      Burgbrohl,1331,389,470,237,164,50,21
+      Dedenbach,196,60,81,34,15,3,3
+      Galenberg,78,13,26,19,17,0,3
+      Glees,238,79,86,28,33,9,3
+      Hohenleimbach,137,36,54,22,19,6,0
+      Kempenich,768,212,247,145,109,39,16
+      Königsfeld,286,77,115,44,30,17,3
+      Niederdürenbach,409,82,167,72,79,6,3
+      Niederzissen,1146,310,420,199,148,59,10
+      Oberdürenbach,287,77,122,48,25,7,8
+      Oberzissen,473,149,149,64,84,18,9
+      Schalkenbach,361,91,125,69,55,15,6
+      Spessart,296,63,110,39,59,21,4
+      Wassenach,483,114,172,111,60,16,10
+      Wehr,487,101,206,90,71,9,10
+      Weibern,620,209,182,92,105,22,10
+"Herdorf, St.",2875,840,955,518,379,120,63
+      Almersbach,175,38,69,41,9,12,6
+"      Altenkirchen Ww., St.",2787,1005,858,421,327,112,64
+      Bachenberg,35,8,3,4,10,6,4
+      Berod bei Hachenburg,236,54,87,55,31,3,6
+      Birnbach,222,57,74,22,48,9,12
+      Busenhausen,128,31,45,24,16,6,6
+      Eichelhardt,178,30,75,45,19,6,3
+      Ersfeld,33,4,17,6,0,3,3
+      Fiersbach,113,37,43,9,21,3,0
+      Fluterschen,288,86,91,58,38,9,6
+      Forstmehren,55,8,22,3,13,3,6
+      Gieleroth,271,66,101,57,31,6,10
+      Hasselbach,133,33,33,33,19,9,6
+      Helmenzen,318,73,96,56,49,23,21
+      Helmeroth,89,12,38,24,12,0,3
+      Hemmelzen,94,31,21,21,18,0,3
+      Heupelzen,112,27,43,18,21,0,3
+      Hilgenroth,121,33,36,17,16,16,3
+      Hirz-Maulsbach,128,29,47,19,26,0,7
+      Idelberg,22,6,6,6,4,0,0
+      Ingelbach,228,65,70,40,44,9,0
+      Isert,47,6,22,3,6,3,7
+      Kettenhausen,111,31,33,13,24,7,3
+      Kircheib,223,52,90,45,18,15,3
+      Kraam,75,13,21,16,13,12,0
+      Mammelzen,391,108,111,75,58,18,21
+      Mehren,172,46,82,26,8,7,3
+      Michelbach Ww.,219,61,75,25,28,15,15
+      Neitersen,336,86,119,83,32,6,10
+      Obererbach Ww.,225,67,67,30,25,27,9
+      Oberirsen,253,61,88,41,32,22,9
+      Oberwambach,167,53,42,40,16,13,3
+      Ölsen,28,6,7,9,3,3,0
+      Racksen,68,21,15,9,16,3,4
+      Rettersen,140,30,53,18,21,12,6
+      Schöneberg,165,35,72,24,28,6,0
+      Sörth,97,21,23,20,20,6,7
+      Stürzelbach,114,28,39,22,22,3,0
+      Volkerzen,30,6,6,6,3,6,3
+      Werkhausen,96,24,42,9,14,4,3
+      Weyerbusch,607,198,204,89,87,23,6
+      Wölmersen,180,46,75,19,28,9,3
+      Alsdorf,689,219,230,129,76,21,14
+"      Betzdorf, St.",4354,1436,1413,692,540,174,99
+      Grünebach,248,78,86,41,36,3,4
+      Scheuerfeld,867,228,333,152,110,34,10
+      Wallmenroth,491,127,136,91,92,36,9
+      Daaden,1885,549,652,321,244,79,40
+      Derschen,404,87,144,55,56,38,24
+      Emmerzhausen,299,84,103,48,38,17,9
+      Friedewald,432,92,135,88,89,18,10
+      Mauden,41,4,12,12,10,3,0
+      Niederdreisbach,378,91,134,75,44,28,6
+      Nisterberg,147,45,36,31,22,10,3
+      Schutzbach,170,54,73,19,20,4,0
+      Weitefeld,928,207,344,166,137,49,25
+      Berzhausen,71,24,24,14,6,0,3
+      Bürdenbach,287,100,101,47,26,9,4
+      Burglahr,210,72,63,30,36,3,6
+      Eichen,222,69,79,32,25,10,7
+      Eulenberg,27,6,9,6,3,3,0
+      Flammersfeld,597,207,198,93,66,27,6
+      Giershausen,50,12,26,3,3,0,6
+      Güllesheim,308,89,113,58,34,7,7
+      Horhausen Ww.,883,284,331,142,92,28,6
+      Kescheid,47,13,8,7,12,7,0
+      Krunkel,245,47,83,60,36,16,3
+      Niedersteinebach,83,20,26,16,15,0,6
+      Oberlahr,345,91,135,62,32,19,6
+      Obernau,78,26,28,6,12,0,6
+      Obersteinebach,115,26,52,24,9,4,0
+      Orfgen,98,18,39,22,13,6,0
+      Peterslahr,127,29,59,7,23,9,0
+      Pleckhausen,297,72,111,48,47,9,10
+      Reiferscheid,167,46,68,13,28,9,3
+      Rott,157,32,55,36,31,3,0
+      Schürdt,100,31,37,11,9,9,3
+      Seelbach Ww.,131,25,55,24,13,10,4
+      Seifen,54,10,34,0,10,0,0
+      Walterschen,66,18,26,13,6,3,0
+      Willroth,334,93,110,59,37,12,23
+      Ziegenhain,53,7,24,13,9,0,0
+      Dickendorf,145,40,55,29,9,6,6
+      Elben,141,36,41,30,25,6,3
+      Elkenroth,723,146,231,148,140,39,19
+      Fensdorf,180,38,67,35,27,13,0
+      Gebhardshain,760,177,264,143,123,38,15
+      Kausen,298,48,100,57,62,25,6
+      Malberg,396,83,127,74,67,33,12
+      Molzhain,223,63,74,49,25,9,3
+      Nauroth,448,113,148,94,56,24,13
+      Rosenheim LK  Altenkirchen,307,68,104,61,51,14,9
+      Steinebach/Sieg,511,117,185,106,66,31,6
+      Steineroth,240,47,92,46,45,3,7
+      Birkenbeul,186,50,63,32,28,13,0
+      Bitzen,323,87,98,81,47,7,3
+      Breitscheidt,386,97,159,64,32,9,25
+      Bruchertseifen,309,85,114,58,21,22,9
+      Etzbach,445,92,151,89,64,19,30
+      Forst,277,70,103,46,40,12,6
+      Fürthen,489,128,190,66,70,26,9
+      Hamm Sieg,1426,497,431,216,165,67,50
+      Niederirsen,51,13,14,14,7,3,0
+      Pracht,599,136,214,96,97,26,30
+      Roth,606,172,204,102,75,34,19
+      Seelbach bei Hamm Sieg,64,13,28,16,4,3,0
+      Brachbach,1050,295,367,201,151,30,6
+      Friesenhagen,646,173,215,110,105,18,25
+      Harbach,226,51,71,43,42,19,0
+"      Kirchen Sieg, St.",3845,1195,1330,627,449,161,83
+      Mudersbach,2617,772,995,430,295,92,33
+      Niederfischbach,1809,511,643,309,231,87,28
+      Birken-Honigsessen,970,196,353,191,170,45,15
+      Hövels,237,62,60,51,28,33,3
+      Katzwinkel Sieg,768,198,262,132,114,26,36
+      Mittelhof,422,107,167,71,56,12,9
+      Selbach Sieg,333,71,138,64,32,25,3
+"      Wissen, St.",3611,1131,1206,603,451,132,88
+"Alzey, St.",7860,2732,2648,1244,844,251,141
+"Osthofen, St.",3449,950,1215,566,471,135,112
+      Albig,652,129,242,126,100,37,18
+      Bechenheim,180,42,58,32,36,6,6
+      Bechtolsheim,624,159,181,144,84,37,19
+      Bermersheim vor der Höhe,158,43,50,31,24,0,10
+      Biebelnheim,268,51,92,71,48,6,0
+      Bornheim,282,58,117,65,32,10,0
+      Dintesheim,65,6,21,9,20,3,6
+      Eppelsheim,485,87,190,91,94,16,7
+      Erbes-Büdesheim,553,118,217,92,85,26,15
+      Esselborn,147,32,46,37,26,3,3
+      Flomborn,399,90,118,91,66,22,12
+      Flonheim,1107,310,360,205,169,43,20
+      Framersheim,656,163,227,147,69,35,15
+      Freimersheim,242,36,100,45,37,15,9
+      Gau-Heppenheim,212,41,83,51,25,6,6
+      Gau-Odernheim,1500,352,494,282,261,63,48
+      Kettenheim,119,40,40,23,9,3,4
+      Lonsheim,235,61,67,46,38,17,6
+      Mauchenheim,394,79,133,74,70,18,20
+      Nack,256,60,76,61,42,14,3
+      Nieder-Wiesen,258,59,93,52,44,3,7
+      Ober-Flörsheim,459,105,139,82,100,27,6
+      Offenheim,234,48,84,46,47,0,9
+      Wahlheim,240,44,88,55,29,18,6
+      Alsheim,1080,272,364,218,171,44,11
+      Eich,1432,386,512,254,178,62,40
+      Gimbsheim,1255,326,475,233,149,45,27
+      Hamm am Rhein,890,197,345,150,139,37,22
+      Mettenheim,550,106,211,100,77,38,18
+      Flörsheim-Dalsheim,1136,301,367,182,200,64,22
+      Hohen-Sülzen,267,58,106,49,42,3,9
+      Mölsheim,253,68,82,47,33,16,7
+      Monsheim,1060,280,366,221,135,40,18
+      Mörstadt,341,84,105,61,72,9,10
+      Offstein,747,193,259,135,118,33,9
+      Wachenheim,280,58,112,64,31,6,9
+      Bechtheim,702,177,247,123,111,38,6
+      Bermersheim,134,29,43,30,16,9,7
+      Dittelsheim-Heßloch,829,193,282,169,132,35,18
+      Frettenheim,120,23,32,38,9,12,6
+      Gundersheim,665,182,228,111,99,27,18
+      Gundheim,373,79,138,81,56,10,9
+      Hangen-Weisheim,188,48,59,41,25,6,9
+      Hochborn,175,35,64,46,9,12,9
+      Monzernheim,234,43,85,51,35,17,3
+      Westhofen,1297,281,497,243,202,41,33
+      Eckelsheim,163,29,63,28,25,9,9
+      Gau-Bickelheim,808,188,263,164,133,44,16
+      Gumbsheim,215,34,84,33,38,16,10
+      Siefersheim,497,123,165,97,74,32,6
+      Stein-Bockenheim,282,72,96,53,42,19,0
+      Wendelsheim,553,123,186,121,89,28,6
+      Wöllstein,1777,485,560,357,260,64,51
+      Wonsheim,356,96,114,71,53,18,4
+      Armsheim,1003,242,311,207,174,40,29
+      Ensheim,182,40,59,39,35,9,0
+      Gabsheim,311,51,116,65,61,9,9
+      Gau-Weinheim,251,61,70,62,43,15,0
+      Partenheim,671,178,224,122,108,21,18
+      Saulheim,2852,679,963,533,459,141,77
+      Schornsheim,655,175,228,123,95,25,9
+      Spiesheim,397,103,124,81,61,18,10
+      Sulzheim,458,128,158,65,62,33,12
+      Udenheim,553,128,190,118,98,16,3
+      Vendersheim,232,62,72,50,24,15,9
+      Wallertheim,700,180,238,124,120,25,13
+"      Wörrstadt, St.",3117,821,1144,535,427,121,69
+"Bad Dürkheim, St.",8609,3199,3130,1135,802,231,112
+"Grünstadt, St.",5883,1973,2200,833,621,180,76
+Haßloch,8625,2511,3160,1465,1036,324,129
+"      Deidesheim, St.",1784,628,610,286,184,57,19
+      Forst an der Weinstraße,338,73,130,62,41,16,16
+      Meckenheim,1413,349,500,266,228,42,28
+      Niederkirchen bei Deidesheim,969,257,290,191,155,63,13
+      Ruppertsberg,601,129,216,123,82,30,21
+      Bobenheim am Berg,359,92,124,77,50,9,7
+      Dackenheim,178,36,62,40,28,9,3
+      Erpolzheim,536,109,196,96,101,25,9
+"      Freinsheim, St.",2231,669,753,434,261,84,30
+      Herxheim am Berg,324,77,136,57,33,18,3
+      Kallstadt,521,150,186,97,52,24,12
+      Weisenheim am Berg,754,149,322,146,96,29,12
+      Weisenheim am Sand,1814,461,650,353,257,69,24
+      Battenberg Pfalz,185,34,81,31,27,6,6
+      Bissersheim,179,36,67,33,27,13,3
+      Bockenheim an der Weinstraße,911,210,349,181,134,22,15
+      Dirmstein,1250,299,438,270,172,45,26
+      Ebertsheim,535,152,159,124,72,19,9
+      Gerolsheim,728,197,261,135,86,34,15
+      Großkarlbach,500,128,186,96,64,19,7
+      Kindenheim,415,68,190,68,59,27,3
+      Kirchheim an der Weinstraße,805,214,269,158,120,37,7
+      Kleinkarlbach,352,81,127,62,56,20,6
+      Laumersheim,370,82,139,72,59,9,9
+      Mertesheim,162,23,58,47,22,9,3
+      Neuleiningen,383,118,139,75,39,3,9
+      Obersülzen,255,56,80,49,55,9,6
+      Obrigheim Pfalz,1129,299,378,218,168,51,15
+      Quirnheim,262,56,91,43,56,6,10
+      Altleiningen,756,180,315,129,83,37,12
+      Carlsberg,1507,410,550,269,206,47,25
+      Hettenleidelheim,1250,329,424,233,169,74,21
+      Tiefenthal,325,109,78,63,60,12,3
+      Wattenheim,685,179,243,146,87,21,9
+      Elmstein,1094,294,390,203,146,37,24
+      Esthal,596,148,213,105,84,22,24
+      Frankeneck,367,99,125,76,45,10,12
+"      Lambrecht Pfalz, St.",1696,513,585,280,224,60,34
+      Lindenberg,480,126,196,89,46,20,3
+      Neidenfels,373,86,140,76,31,21,19
+      Weidenthal,799,199,296,133,128,28,15
+      Ellerstadt,934,231,334,170,141,38,20
+      Friedelsheim,623,130,229,135,86,24,19
+      Gönnheim,603,121,234,120,82,27,19
+"      Wachenheim a. d. W., St.",2025,556,772,310,315,57,15
+"Bad Kreuznach, gr. kr. St.",20894,8815,6494,2690,1826,696,373
+"Kirn, St.",3774,1289,1271,612,396,134,72
+      Biebelsheim,271,48,97,52,56,12,6
+      Frei-Laubersheim,414,82,139,89,59,35,10
+      Fürfeld,634,163,215,105,87,43,21
+      Hackenheim,874,205,308,181,121,47,12
+      Neu-Bamberg,407,111,156,64,55,12,9
+      Pfaffen-Schwabenheim,518,141,168,95,89,19,6
+      Pleitersheim,132,28,31,28,33,9,3
+      Tiefenthal,48,8,23,7,3,4,3
+      Volxheim,442,106,130,108,74,17,7
+      Altenbamberg,333,76,125,72,31,26,3
+"      Bad Münster am Stein-Ebg., St.",2049,874,707,262,137,41,28
+      Duchroth,233,51,93,31,45,10,3
+      Feilbingert,692,167,231,163,87,28,16
+      Hallgarten,312,60,95,77,59,15,6
+      Hochstätten,274,59,113,57,21,9,15
+      Niederhausen,238,59,87,41,36,9,6
+      Norheim,643,158,239,91,126,13,16
+      Oberhausen an der Nahe,150,36,47,23,20,17,7
+      Traisen,239,72,77,44,32,3,11
+      Auen,70,17,25,12,16,0,0
+"      Bad Sobernheim, St.",2828,947,928,452,330,108,63
+      Bärweiler,102,22,24,21,20,6,9
+      Daubach,89,15,25,21,22,3,3
+      Ippenschied,49,9,17,3,10,10,0
+      Kirschroth,122,32,33,20,19,9,9
+      Langenthal,29,6,6,9,0,0,8
+      Lauschied,214,56,66,31,31,24,6
+      Martinstein,126,36,42,25,20,0,3
+      Meddersheim,546,101,212,118,89,22,4
+      Merxheim,612,143,220,108,97,19,25
+      Monzingen,647,160,200,145,95,34,13
+      Nußbaum,190,50,71,16,33,17,3
+      Odernheim am Glan,742,203,267,124,94,36,18
+      Rehbach,15,0,4,3,8,0,0
+      Seesbach,235,57,72,58,39,6,3
+      Staudernheim,608,150,198,128,93,24,15
+      Weiler bei Monzingen,188,42,84,33,14,9,6
+      Winterburg,91,28,32,12,13,3,3
+      Bärenbach,200,43,52,40,53,9,3
+      Becherbach bei Kirn,153,28,53,39,27,3,3
+      Brauweiler,36,16,4,13,3,0,0
+      Bruschied,132,27,53,27,15,10,0
+      Hahnenbach,255,84,87,55,22,4,3
+      Heimweiler,152,23,36,28,49,7,9
+      Heinzenberg,12,3,9,0,0,0,0
+      Hennweiler,525,126,163,114,90,17,15
+      Hochstetten-Dhaun,689,161,202,185,98,25,18
+      Horbach,16,10,6,0,0,0,0
+      Kellenbach,111,19,47,10,22,10,3
+      Königsau,30,3,19,0,8,0,0
+      Limbach,122,26,35,21,18,12,10
+      Meckenbach,164,32,64,30,25,9,4
+      Oberhausen bei Kirn,360,77,106,95,58,20,4
+      Otzweiler,84,15,21,24,12,9,3
+      Schneppenbach,104,32,24,20,16,6,6
+      Schwarzerden,106,27,35,18,23,3,0
+      Simmertal,810,228,275,172,96,39,0
+      Weitersborn,88,15,24,17,22,3,7
+      Bretzenheim,986,239,320,182,164,45,36
+      Dorsheim,286,74,82,49,60,12,9
+      Guldental,1040,247,330,211,169,65,18
+      Langenlonsheim,1584,444,553,277,197,72,41
+      Laubenheim,367,102,136,79,38,3,9
+      Rümmelsheim,588,168,198,103,85,28,6
+      Windesheim,721,177,232,144,102,45,21
+      Abtweiler,80,17,35,9,10,9,0
+      Becherbach,379,75,138,73,63,24,6
+      Breitenheim,181,38,74,27,24,15,3
+      Callbach,162,48,36,29,23,13,13
+      Desloch,136,24,37,32,29,10,4
+      Hundsbach,166,28,53,25,51,6,3
+      Jeckenbach,101,27,31,21,13,9,0
+      Lettweiler,93,15,31,26,9,6,6
+      Löllbach,96,23,35,19,12,7,0
+"      Meisenheim, St.",1172,401,379,210,114,53,15
+      Raumbach,178,46,53,39,21,13,6
+      Rehborn,309,65,119,57,55,10,3
+      Reiffelbach,111,38,25,21,24,0,3
+      Schmittweiler,86,15,41,21,6,0,3
+      Schweinschied,73,7,27,26,7,0,6
+      Allenfeld,72,14,30,16,0,9,3
+      Argenschwang,134,27,40,25,29,10,3
+      Bockenau,528,146,159,98,71,39,15
+      Boos,167,45,51,30,28,13,0
+      Braunweiler,256,56,91,46,41,19,3
+      Burgsponheim,105,21,26,31,24,3,0
+      Dalberg,89,22,33,16,12,6,0
+      Gebroth,55,9,23,15,0,4,4
+      Gutenberg,411,91,144,83,75,12,6
+      Hargesheim,1237,316,439,249,162,41,30
+      Hergenfeld,183,22,66,34,49,3,9
+      Hüffelsheim,512,106,145,118,109,34,0
+      Mandel,346,79,90,87,54,20,16
+      Münchwald,125,13,56,30,19,4,3
+      Oberstreit,109,8,42,31,18,10,0
+      Roxheim,990,237,321,194,183,35,20
+      Rüdesheim,1064,300,355,194,146,44,25
+      Sankt Katharinen,154,35,55,43,18,0,3
+      Schloßböckelheim,165,38,68,37,13,9,0
+      Sommerloch,167,27,47,38,34,15,6
+      Spabrücken,449,101,146,82,81,27,12
+      Spall,63,8,20,19,0,3,13
+      Sponheim,311,69,97,45,64,18,18
+      Waldböckelheim,953,255,309,161,142,58,28
+      Wallhausen,662,180,212,102,112,35,21
+      Weinsheim,779,189,270,141,126,38,15
+      Winterbach,196,49,80,38,22,7,0
+      Daxweiler,334,85,99,94,41,9,6
+      Dörrebach,302,91,97,73,29,9,3
+      Eckenroth,102,20,52,18,9,3,0
+      Roth,111,22,35,25,23,6,0
+      Schöneberg,268,64,102,45,45,3,9
+      Schweppenhausen,391,109,119,93,45,16,9
+      Seibersbach,556,134,173,105,91,40,13
+"      Stromberg, St.",1498,439,591,236,149,64,19
+      Waldlaubersheim,335,77,124,70,39,15,10
+      Warmsroth,181,39,81,31,23,4,3
+Morbach,4545,1315,1560,824,601,184,61
+"Wittlich, St.",7829,2662,2747,1147,853,285,135
+"      Bernkastel-Kues, St.",3341,1358,1089,466,301,79,48
+      Brauneberg,519,138,176,118,56,28,3
+      Burgen,257,72,82,48,37,12,6
+      Erden,173,48,72,12,35,6,0
+      Gornhausen,93,23,25,26,16,3,0
+      Graach an der Mosel,287,80,106,41,43,6,11
+      Hochscheid,107,20,41,28,18,0,0
+      Kesten,170,54,58,27,16,12,3
+      Kleinich,279,65,69,67,49,9,20
+      Kommen,120,18,35,33,24,7,3
+      Lieser,586,197,191,91,77,21,9
+      Longkamp,473,110,166,75,78,30,14
+      Lösnich,194,66,62,26,25,15,0
+      Maring-Noviand,645,186,226,115,71,41,6
+      Monzelfeld,511,117,165,121,65,34,9
+      Mülheim Mosel,449,127,155,88,59,20,0
+      Ürzig,425,135,151,69,37,26,7
+      Veldenz,417,107,165,85,37,13,10
+      Wintrich,423,109,161,69,52,25,7
+      Zeltingen-Rachtig,991,270,335,192,155,33,6
+      Bausendorf,543,139,184,105,79,25,11
+      Bengel,362,95,120,74,64,9,0
+      Diefenbach,40,15,16,6,3,0,0
+      Flußbach,196,44,70,48,30,4,0
+      Hontheim,360,96,125,58,53,22,6
+      Kinderbeuern,455,125,146,90,79,9,6
+      Kinheim,371,120,132,58,49,12,0
+      Kröv,976,273,311,187,145,45,15
+      Reil,504,164,174,74,54,26,12
+      Willwerscheid,21,9,0,0,8,4,0
+      Bettenfeld,325,92,131,36,37,19,10
+      Dierfeld,0,0,0,0,0,0,0
+      Eckfeld,155,39,55,30,25,0,6
+      Eisenschmitt,141,36,48,34,13,4,6
+      Gipperath,100,26,31,23,17,3,0
+      Greimerath,104,31,16,18,27,9,3
+      Großlittgen,418,112,135,88,61,19,3
+      Hasborn,228,48,67,42,53,9,9
+      Karl,86,32,32,3,10,6,3
+      Laufeld,201,53,55,37,37,19,0
+"      Manderscheid, St.",626,227,207,81,79,26,6
+      Meerfeld,138,20,53,18,22,14,11
+      Musweiler,20,3,9,0,4,4,0
+      Niederöfflingen,187,55,51,25,31,22,3
+      Niederscheidweiler,110,28,28,33,14,7,0
+      Oberöfflingen,98,22,28,31,14,3,0
+      Oberscheidweiler,74,21,32,11,10,0,0
+      Pantenburg,102,24,40,19,12,7,0
+      Schladt,59,21,25,3,7,0,3
+      Schwarzenborn,24,7,6,3,4,4,0
+      Wallscheid,151,24,75,25,15,12,0
+      Minheim,210,52,81,21,40,10,6
+      Neumagen-Dhron,984,272,337,183,124,42,26
+      Piesport,888,266,266,192,111,44,9
+      Trittenheim,464,120,146,99,67,26,6
+      Berglicht,187,53,44,34,35,15,6
+      Breit,94,13,25,23,17,13,3
+      Büdlich,75,12,25,13,12,10,3
+      Burtscheid,56,10,16,24,3,3,0
+      Deuselbach,128,51,34,28,12,0,3
+      Dhronecken,59,14,16,16,13,0,0
+      Etgert,22,0,3,10,6,3,0
+      Gielert,63,10,9,16,10,9,9
+      Gräfendhron,50,7,18,12,10,0,3
+      Heidenburg,297,80,91,50,61,9,6
+      Hilscheid,122,39,34,24,22,3,0
+      Horath,174,34,60,31,35,7,7
+      Immert,61,16,25,11,6,3,0
+      Lückenburg,41,9,13,3,13,0,3
+      Malborn,579,136,201,134,72,30,6
+      Merschbach,21,3,9,3,0,3,3
+      Neunkirchen,57,13,19,6,15,4,0
+      Rorodt,20,4,13,0,0,3,0
+      Schönberg,90,16,18,19,27,10,0
+      Talling,92,12,27,26,24,3,0
+      Thalfang,776,251,222,165,94,27,17
+      Burg Mosel,182,46,54,48,9,6,19
+      Enkirch,723,213,247,120,102,31,10
+      Irmenach,302,69,95,52,56,15,15
+      Lötzbeuren,204,55,67,35,28,19,0
+      Starkenburg,113,40,34,23,13,0,3
+"      Traben-Trarbach, St.",2802,1058,902,407,278,109,48
+      Altrich,673,173,213,123,99,42,23
+      Arenrath,155,38,45,33,36,3,0
+      Bergweiler,362,83,130,69,48,20,12
+      Binsfeld,447,131,157,60,49,34,16
+      Bruch,191,63,63,22,31,6,6
+      Dierscheid,70,16,24,15,9,3,3
+      Dodenburg,49,12,15,15,7,0,0
+      Dreis,550,134,172,102,95,31,16
+      Esch,169,47,41,35,21,16,9
+      Gladbach,173,60,59,34,16,4,0
+      Heckenmünster,58,15,12,18,10,0,3
+      Heidweiler,77,27,18,13,12,3,4
+      Hetzerath,878,204,267,182,166,43,16
+      Hupperath,237,53,71,58,46,9,0
+      Klausen,568,160,192,106,73,22,15
+      Landscheid,868,249,277,177,121,31,13
+      Minderlittgen,288,85,82,54,40,24,3
+      Niersbach,282,76,96,46,64,0,0
+      Osann-Monzel,702,198,253,135,82,22,12
+      Platten,369,101,112,92,31,24,9
+      Plein,270,58,100,57,43,6,6
+      Rivenich,290,72,82,69,46,18,3
+      Salmtal,950,255,291,164,175,56,9
+      Sehlem,347,74,115,83,72,3,0
+"Idar-Oberstein, gr. kr. St.",14133,5465,4943,2065,1223,315,122
+"      Baumholder, St.",1995,763,647,307,191,43,44
+      Berglangenbach,192,45,58,34,37,18,0
+      Berschweiler bei Baumholder,244,93,67,50,28,6,0
+      Eckersweiler,73,22,24,9,9,6,3
+      Fohren-Linden,137,31,49,39,11,0,7
+      Frauenberg,183,51,70,32,21,3,6
+      Hahnweiler,84,21,31,9,17,3,3
+      Heimbach,497,155,174,72,65,25,6
+      Leitzweiler,44,13,13,8,3,7,0
+      Mettweiler,124,34,50,15,16,6,3
+      Reichenbach,238,53,67,59,34,13,12
+      Rohrbach,96,29,30,27,6,0,4
+      Rückweiler,166,48,34,41,25,11,7
+      Ruschberg,359,105,124,54,55,15,6
+      Abentheuer,188,58,50,34,37,6,3
+      Achtelsbach,164,47,53,18,21,10,15
+"      Birkenfeld, St.",2880,985,902,475,338,131,49
+      Börfink,96,22,40,17,14,0,3
+      Brücken,519,136,181,66,94,21,21
+      Buhlenberg,199,47,64,50,29,3,6
+      Dambach,66,10,29,18,6,3,0
+      Dienstweiler,115,16,48,26,19,6,0
+      Elchweiler,45,14,20,4,3,4,0
+      Ellenberg,32,9,7,3,7,3,3
+      Ellweiler,129,38,32,26,27,6,0
+      Gimbweiler,189,53,72,39,22,0,3
+      Gollenberg,48,7,6,20,3,3,9
+      Hattgenstein,110,28,48,16,3,12,3
+      Hoppstädten-Weiersbach,1309,526,356,180,163,47,37
+      Kronweiler,143,48,58,24,6,3,4
+      Leisel,221,46,78,46,30,17,4
+      Meckenbach,50,12,9,9,14,3,3
+      Niederbrombach,207,59,76,30,30,6,6
+      Niederhambach,146,35,51,31,23,3,3
+      Nohen,165,42,60,34,23,6,0
+      Oberbrombach,209,64,66,40,23,13,3
+      Oberhambach,139,52,41,23,16,7,0
+      Rimsberg,45,6,16,17,3,0,3
+      Rinzenberg,128,25,62,22,19,0,0
+      Rötsweiler-Nockenthal,224,44,97,37,37,3,6
+      Schmißberg,101,39,27,22,9,0,4
+      Schwollen,199,41,64,48,38,4,4
+      Siesbach,157,38,59,41,13,6,0
+      Sonnenberg-Winnenberg,220,65,77,46,25,4,3
+      Wilzenberg-Hußweiler,119,15,47,24,20,10,3
+      Allenbach,274,59,111,46,40,15,3
+      Bergen,196,42,69,44,16,22,3
+      Berschweiler bei Kirn,113,28,50,3,20,0,12
+      Breitenthal,134,35,38,30,15,7,9
+      Bruchweiler,233,68,74,37,42,6,6
+      Dickesbach,167,35,66,39,20,7,0
+      Fischbach,439,138,164,82,43,9,3
+      Gerach,106,25,43,16,19,0,3
+      Griebelschied,74,18,14,24,6,6,6
+      Herborn,218,51,64,56,35,9,3
+      Herrstein,333,78,117,65,48,25,0
+      Hettenrodt,297,53,127,55,45,14,3
+      Hintertiefenbach,169,44,57,34,25,6,3
+      Kempfeld,386,110,141,77,38,11,9
+      Kirschweiler,459,123,159,103,47,18,9
+      Langweiler,110,30,43,21,7,6,3
+      Mackenrodt,172,37,61,48,16,10,0
+      Mittelreidenbach,331,68,117,88,49,3,6
+      Mörschied,339,110,110,61,45,6,7
+      Niederhosenbach,124,28,46,14,21,9,6
+      Niederwörresbach,392,104,140,68,62,12,6
+      Oberhosenbach,62,12,15,13,22,0,0
+      Oberreidenbach,260,63,77,64,35,12,9
+      Oberwörresbach,59,18,13,6,16,0,6
+      Schmidthachenbach,163,41,73,19,20,4,6
+      Sensweiler,199,64,62,35,29,3,6
+      Sien,226,72,71,31,40,9,3
+      Sienhachenbach,85,25,29,18,10,0,3
+      Sonnschied,55,12,23,13,3,4,0
+      Veitsrodt,286,72,103,56,46,9,0
+      Vollmersbach,242,67,88,53,28,6,0
+      Weiden,48,9,12,12,9,6,0
+      Wickenrodt,64,12,27,13,6,6,0
+      Wirschweiler,150,31,40,43,24,9,3
+      Asbach,53,15,23,9,3,0,3
+      Bollenbach,60,16,15,6,17,6,0
+      Bundenbach,403,111,131,70,47,34,10
+      Gösenroth,109,28,34,9,26,9,3
+      Hausen,83,28,26,11,15,0,3
+      Hellertshausen,86,25,22,30,3,6,0
+      Horbruch,157,50,50,16,30,11,0
+      Hottenbach,272,72,79,72,43,0,6
+      Krummenau,58,16,31,7,0,4,0
+      Oberkirn,144,36,37,37,25,0,9
+      Rhaunen,792,189,246,171,111,50,25
+      Schauren,221,46,84,40,32,13,6
+      Schwerbach,18,3,9,6,0,0,0
+      Stipshausen,367,90,128,60,56,30,3
+      Sulzbach,129,22,55,19,24,3,6
+      Weitersbach,42,7,16,6,6,0,7
+      Beilstein,51,16,9,7,11,8,0
+      Bremm,367,81,141,61,60,21,3
+      Briedern,160,38,66,32,15,3,6
+      Bruttig-Fankel,499,165,155,91,67,15,6
+"      Cochem, St.",2352,945,756,349,218,55,29
+      Dohr,278,64,81,51,56,20,6
+      Ediger-Eller,471,129,177,81,49,15,20
+      Ellenz-Poltersdorf,385,120,123,63,55,20,4
+      Ernst,249,66,94,44,36,9,0
+      Faid,453,119,142,87,68,21,16
+      Greimersburg,282,61,103,43,54,17,4
+      Klotten,629,192,204,118,82,18,15
+      Mesenich,132,39,34,23,21,9,6
+      Nehren,44,13,16,6,6,3,0
+      Senheim,261,65,85,59,37,12,3
+      Valwig,210,63,67,49,12,16,3
+      Wirfus,88,28,38,6,13,3,0
+      Brachtendorf,99,24,27,10,28,6,4
+      Düngenheim,437,117,132,94,76,12,6
+      Eppenberg,98,18,33,29,12,3,3
+      Eulgem,72,28,7,13,7,7,10
+      Gamlen,215,54,70,53,35,3,0
+      Hambuch,268,59,71,53,63,22,0
+      Hauroth,136,35,55,27,12,3,4
+      Illerich,277,45,108,44,58,16,6
+      Kaifenheim,315,52,105,65,66,17,10
+"      Kaisersesch, St.",1254,390,397,211,165,63,28
+      Kalenborn,98,25,30,22,15,6,0
+      Landkern,396,107,146,69,49,19,6
+      Laubach,274,65,103,58,25,16,7
+      Leienkaul,128,23,56,31,15,0,3
+      Masburg,444,111,129,94,71,29,10
+      Müllenbach,286,58,110,52,45,21,0
+      Urmersbach,185,43,69,34,26,6,7
+      Zettingen,109,34,32,11,25,3,4
+      Binningen,295,65,110,53,40,17,10
+      Brieden,57,21,11,9,12,4,0
+      Brohl,162,30,61,30,34,7,0
+      Dünfus,120,25,50,36,6,3,0
+      Forst Eifel,178,57,53,32,30,6,0
+      Kail,121,28,42,20,25,3,3
+      Lahr,74,22,21,18,10,0,3
+      Lieg,182,38,79,30,31,4,0
+      Lütz,144,57,47,20,20,0,0
+      Möntenich,61,16,19,3,17,6,0
+      Mörsdorf,286,75,98,61,37,12,3
+      Moselkern,283,93,96,54,24,16,0
+      Müden Mosel,304,99,91,68,27,12,7
+      Pommern,190,40,71,38,25,10,6
+      Roes,205,51,56,35,47,16,0
+      Treis-Karden,1031,338,350,177,122,19,25
+      Zilshausen,135,37,43,12,30,6,7
+      Alflen,349,78,102,80,54,28,7
+      Auderath,240,70,57,47,46,14,6
+      Bad Bertrich,507,206,179,50,53,9,10
+      Beuren,209,73,67,35,28,3,3
+      Büchel,473,106,170,76,87,22,12
+      Filz,33,10,10,7,3,3,0
+      Gevenich,297,86,94,46,50,18,3
+      Gillenbeuren,123,52,25,23,20,3,0
+      Kliding,87,14,35,19,19,0,0
+      Lutzerath,637,184,202,104,98,37,12
+      Schmitt,55,13,15,12,15,0,0
+"      Ulmen, St.",1319,350,410,257,205,53,44
+      Urschmitt,99,25,46,10,18,0,0
+      Wagenhausen,30,9,3,6,6,6,0
+      Weiler,134,32,47,16,26,10,3
+      Wollmerath,92,23,27,16,3,16,7
+      Alf,371,116,138,76,35,6,0
+      Altlay,218,69,77,38,27,0,7
+      Altstrimmig,151,33,65,30,17,6,0
+      Blankenrath,661,148,225,123,109,31,25
+      Briedel,461,135,139,89,69,19,10
+      Bullay,700,233,235,97,105,24,6
+      Forst Hunsrück,19,8,11,0,0,0,0
+      Grenderich,186,49,83,34,10,6,4
+      Haserich,87,16,23,18,27,0,3
+      Hesweiler,54,12,16,9,13,4,0
+      Liesenich,128,21,69,18,7,10,3
+      Mittelstrimmig,173,35,59,48,24,0,7
+      Moritzheim,52,18,9,3,12,4,6
+      Neef,223,71,74,48,27,3,0
+      Panzweiler,104,21,43,16,15,3,6
+      Peterswald-Löffelscheid,290,74,87,47,39,22,21
+      Pünderich,400,123,129,48,66,25,9
+      Reidenhausen,82,24,35,13,10,0,0
+      Sankt Aldegund,286,96,96,43,41,10,0
+      Schauren,160,40,63,25,23,9,0
+      Sosberg,62,13,22,12,12,3,0
+      Tellig,122,26,39,32,19,6,0
+      Walhausen,74,22,16,18,6,6,6
+"      Zell Mosel, St.",1976,635,745,267,230,68,31
+      Alsenz,701,227,228,108,75,41,22
+      Finkenbach-Gersweiler,137,37,35,31,18,10,6
+      Gaugrehweiler,230,58,74,44,27,21,6
+      Kalkofen,77,14,31,12,10,4,6
+      Mannweiler-Cölln,193,53,67,29,31,6,7
+      Münsterappel,209,53,87,34,25,7,3
+      Niederhausen an der Appel,103,22,28,38,15,0,0
+      Niedermoschel,202,55,63,44,31,6,3
+      Oberhausen an der Appel,65,27,19,7,6,6,0
+"      Obermoschel, St.",500,163,179,99,41,15,3
+      Oberndorf,107,25,53,20,6,3,0
+      Schiersfeld,101,37,30,11,17,6,0
+      Sitters,52,9,16,9,18,0,0
+      Unkenbach,103,22,30,38,13,0,0
+      Waldgrehweiler,105,40,33,19,6,7,0
+      Winterborn,87,16,39,18,11,0,3
+"      Eisenberg Pfalz, St.",4006,1305,1333,607,496,160,105
+      Kerzenheim,881,200,350,139,135,36,21
+      Ramsen,745,189,251,157,99,28,21
+      Albisheim Pfrimm,643,171,196,115,92,37,32
+      Biedesheim,251,51,74,59,55,12,0
+      Bubenheim,181,41,63,36,31,10,0
+      Dreisen,385,89,125,73,72,9,17
+      Einselthum,329,64,125,56,56,19,9
+      Göllheim,1533,402,531,271,223,72,34
+      Immesheim,50,9,12,4,16,9,0
+      Lautersheim,268,64,83,57,55,6,3
+      Ottersheim,161,50,52,21,25,10,3
+      Rüssingen,204,60,62,44,28,7,3
+      Standenbühl,82,15,29,31,7,0,0
+      Weitersweiler,195,46,55,47,38,3,6
+      Zellertal,512,113,216,83,69,19,12
+      Bennhausen,61,10,15,17,19,0,0
+      Bischheim,281,77,85,63,36,13,7
+      Bolanden,933,207,292,193,168,52,21
+      Dannenfels,406,124,132,96,29,16,9
+      Gauersheim,274,75,97,55,31,9,7
+      Ilbesheim,219,41,71,45,49,10,3
+      Jakobsweiler,104,19,45,20,17,3,0
+"      Kirchheimbolanden, St.",3350,1113,1117,517,388,132,83
+      Kriegsfeld,423,88,160,80,61,31,3
+      Marnheim,657,139,233,115,107,44,19
+      Morschheim,309,74,97,71,49,9,9
+      Mörsfeld,211,59,62,43,38,3,6
+      Oberwiesen,200,45,80,48,18,6,3
+      Orbis,293,78,94,62,46,6,7
+      Rittersheim,91,25,45,15,3,3,0
+      Stetten,234,46,90,40,31,18,9
+      Bayerfeld-Steckweiler,186,44,73,27,21,9,12
+      Bisterschied,93,29,35,13,3,4,9
+      Dielkirchen,236,60,74,44,40,6,12
+      Dörrmoschel,61,31,19,7,0,4,0
+      Gehrweiler,146,31,61,23,21,7,3
+      Gerbach,235,59,71,44,45,13,3
+      Gundersweiler,199,47,84,20,32,13,3
+      Imsweiler,236,71,87,26,33,16,3
+      Katzenbach,223,58,78,49,31,4,3
+      Ransweiler,120,27,44,21,16,12,0
+      Rathskirchen,73,26,19,14,3,7,4
+      Reichsthal,30,6,7,6,11,0,0
+"      Rockenhausen, St.",2387,768,869,399,237,74,40
+      Ruppertsecken,151,32,53,40,23,0,3
+      Sankt Alban,123,18,45,31,26,0,3
+      Schönborn,44,0,26,9,6,3,0
+      Seelen,56,6,21,16,7,3,3
+      Stahlberg,86,25,23,18,14,3,3
+      Teschenmoschel,55,25,22,8,0,0,0
+      Würzweiler,95,20,36,19,11,9,0
+      Börrstadt,358,71,138,67,44,22,16
+      Breunigweiler,179,51,67,37,15,9,0
+      Falkenstein,145,43,60,9,21,9,3
+      Gonbach,208,41,99,38,27,3,0
+      Höringen,278,59,92,60,43,12,12
+      Imsbach,389,107,134,71,56,18,3
+      Lohnsfeld,388,106,129,72,52,16,13
+      Münchweiler an der Alsenz,505,146,158,88,89,18,6
+      Schweisweiler,153,42,46,40,15,7,3
+      Sippersfeld,482,109,179,99,65,21,9
+      Steinbach am Donnersberg,301,60,104,72,47,12,6
+      Wartenberg-Rohrbach,206,63,53,34,38,12,6
+      Winnweiler,1958,536,620,391,265,94,52
+"Bitburg, St.",6117,2300,1969,875,693,192,88
+      Arzfeld,562,151,184,89,85,37,16
+      Dackscheid,78,30,24,12,12,0,0
+      Dahnen,132,23,56,19,22,12,0
+      Daleiden,352,76,125,73,57,9,12
+      Dasburg,121,43,31,28,6,10,3
+      Eilscheid,16,6,7,0,3,0,0
+      Eschfeld,76,20,28,13,12,3,0
+      Euscheid,47,20,12,8,0,4,3
+      Großkampenberg,52,14,4,18,10,6,0
+      Hargarten,36,9,3,3,18,0,3
+      Harspelt,20,0,9,7,0,0,4
+      Herzfeld,9,0,0,0,0,3,6
+      Irrhausen,114,25,43,22,12,12,0
+      Jucken,81,18,27,21,9,3,3
+      Kesfeld,43,10,6,9,15,3,0
+      Kickeshausen,17,4,7,3,3,0,0
+      Kinzenburg,23,9,10,4,0,0,0
+      Krautscheid,99,18,22,19,23,11,6
+      Lambertsberg,155,41,56,28,15,3,12
+      Lascheid,34,13,14,0,4,3,0
+      Lauperath,41,7,9,9,0,12,4
+      Leidenborn,62,24,14,9,12,0,3
+      Lichtenborn,132,30,30,29,22,9,12
+      Lierfeld,28,3,3,13,6,0,3
+      Lünebach,257,80,83,42,29,20,3
+      Lützkampen,147,42,43,21,23,12,6
+      Manderscheid,17,6,3,4,0,4,0
+      Mauel,23,8,12,3,0,0,0
+      Merlscheid,19,4,6,3,6,0,0
+      Niederpierscheid,12,6,0,0,0,3,3
+      Oberpierscheid,137,24,53,15,18,12,15
+      Olmscheid,57,21,13,10,6,3,4
+      Pintesfeld,18,3,7,4,4,0,0
+      Plütscheid,123,31,28,22,29,6,7
+      Preischeid,68,22,15,12,13,3,3
+      Reiff,25,6,3,0,7,3,6
+      Reipeldingen,40,15,15,3,4,3,0
+      Roscheid,25,14,4,0,7,0,0
+      Sengerich,7,3,4,0,0,0,0
+      Sevenig Our,34,13,11,6,4,0,0
+      Strickscheid,15,3,3,9,0,0,0
+      Üttfeld,154,29,52,30,19,9,15
+      Waxweiler,451,155,148,66,59,16,7
+      Baustert,212,54,76,29,40,13,0
+      Bettingen,411,116,115,68,84,10,18
+      Bickendorf,210,66,69,38,28,9,0
+      Biersdorf am See,218,81,51,44,32,10,0
+      Birtlingen,11,7,0,4,0,0,0
+      Brecht,88,15,19,19,17,12,6
+      Brimingen,25,6,6,9,4,0,0
+      Dahlem,104,19,22,41,16,6,0
+      Dockendorf,77,7,27,15,19,6,3
+      Dudeldorf,462,154,137,87,68,13,3
+      Echtershausen,45,11,9,9,13,3,0
+      Ehlenz,167,31,52,41,37,3,3
+      Enzen,18,6,0,0,9,0,3
+      Eßlingen,39,10,10,9,4,3,3
+      Feilsdorf,12,6,3,3,0,0,0
+      Fließem,307,92,93,43,52,18,9
+      Gondorf,108,42,39,14,0,10,3
+      Halsdorf,50,19,10,4,14,3,0
+      Hamm,13,3,3,3,4,0,0
+      Heilenbach,46,16,17,6,4,3,0
+      Hisel,6,0,3,0,3,0,0
+      Hütterscheid,90,26,24,18,12,6,4
+      Hüttingen an der Kyll,136,38,53,18,20,7,0
+      Idenheim,172,37,63,22,29,7,14
+      Idesheim,163,37,43,37,18,18,10
+      Ingendorf,87,24,12,15,16,14,6
+      Ließem,34,17,10,4,3,0,0
+      Meckel,134,24,26,26,28,13,17
+      Messerich,224,47,91,28,49,6,3
+      Metterich,202,44,73,32,38,6,9
+      Mülbach,53,9,18,3,9,3,11
+      Nattenheim,217,63,73,41,14,23,3
+      Niederstedem,100,15,36,28,6,9,6
+      Niederweiler,36,0,16,13,7,0,0
+      Oberstedem,35,6,16,9,4,0,0
+      Oberweiler,51,12,10,15,10,4,0
+      Oberweis,236,54,86,42,34,17,3
+      Olsdorf,29,12,3,7,7,0,0
+      Rittersdorf,578,143,166,106,115,29,19
+      Röhl,201,69,65,33,9,25,0
+      Scharfbillig,25,6,6,13,0,0,0
+      Schleid,142,39,47,26,24,3,3
+      Seffern,133,32,31,36,18,13,3
+      Sefferweich,107,27,30,21,29,0,0
+      Stockem,35,6,20,3,0,3,3
+      Sülm,169,24,46,50,25,15,9
+      Trimport,109,24,44,24,11,6,0
+      Wettlingen,19,6,7,3,0,0,3
+      Wiersdorf,106,46,18,4,31,7,0
+      Wißmannsdorf,332,91,92,57,54,32,6
+      Wolsfeld,334,95,98,63,59,6,13
+      Alsdorf,193,57,67,43,20,6,0
+      Bollendorf,801,299,257,114,96,22,13
+      Echternacherbrück,362,168,105,53,19,7,10
+      Eisenach,151,53,34,34,30,0,0
+      Ernzen,171,52,52,33,31,0,3
+      Ferschweiler,399,113,111,75,58,25,17
+      Gilzem,163,31,57,26,26,20,3
+      Holsthum,240,61,74,43,48,11,3
+      Irrel,609,206,179,104,83,28,9
+      Kaschenbach,25,9,3,3,3,3,4
+      Menningen,74,18,20,14,19,3,0
+      Minden,99,35,26,15,20,3,0
+      Niederweis,110,25,56,6,13,3,7
+      Peffingen,107,30,29,29,6,10,3
+      Prümzurlay,239,85,65,35,29,19,6
+      Schankweiler,84,21,18,15,15,15,0
+      Wallendorf,188,59,68,36,19,3,3
+      Badem,445,135,148,58,79,19,6
+      Balesfeld,94,30,38,6,13,7,0
+      Burbach,284,82,90,52,38,16,6
+      Etteldorf,4,0,0,0,0,4,0
+      Gindorf,134,30,49,18,20,7,10
+      Gransdorf,129,39,43,19,25,3,0
+"      Kyllburg, St.",452,184,130,74,41,14,9
+      Kyllburgweiler,35,15,4,0,7,3,6
+      Malberg,293,91,95,61,31,15,0
+      Malbergweich,161,48,61,27,19,6,0
+      Neidenbach,360,103,89,80,52,27,9
+      Neuheilenbach,100,16,37,18,20,3,6
+      Oberkail,271,67,90,55,44,12,3
+      Orsfeld,51,9,19,6,17,0,0
+      Pickließem,122,22,46,15,27,9,3
+      Sankt Thomas,128,44,48,17,13,3,3
+      Seinsfeld,76,24,26,16,4,3,3
+      Steinborn,86,19,18,15,18,6,10
+      Usch,19,3,4,0,9,3,0
+      Wilsecker,87,22,28,14,19,4,0
+      Zendscheid,69,21,18,18,9,3,0
+      Affler,17,4,10,3,0,0,0
+      Altscheid,33,8,17,4,4,0,0
+      Ammeldingen an der Our,12,0,3,3,3,3,0
+      Ammeldingen bei Neuerburg,79,12,26,18,6,14,3
+      Bauler,42,16,9,7,4,3,3
+      Berkoth,52,12,28,3,3,3,3
+      Berscheid,16,6,4,3,3,0,0
+      Biesdorf,93,23,18,18,19,12,3
+      Burg,6,0,3,0,3,0,0
+      Dauwelshausen,33,3,7,20,0,3,0
+      Emmelbaum,23,6,6,7,0,0,4
+      Fischbach-Oberraden,23,0,11,9,0,0,3
+      Geichlingen,159,47,28,28,33,23,0
+      Gemünd,12,8,4,0,0,0,0
+      Gentingen,35,19,6,10,0,0,0
+      Heilbach,45,10,6,9,6,4,10
+      Herbstmühle,10,4,3,0,3,0,0
+      Hommerdingen,22,9,0,3,7,3,0
+      Hütten,20,4,0,4,4,4,4
+      Hüttingen bei Lahr,56,19,21,7,3,0,6
+      Karlshausen,158,35,41,37,36,3,6
+      Keppeshausen,6,3,0,0,3,0,0
+      Körperich,452,146,115,68,62,28,33
+      Koxhausen,39,0,16,7,10,6,0
+      Kruchten,158,33,54,27,28,16,0
+      Lahr,100,34,38,6,12,10,0
+      Leimbach,32,20,6,0,0,6,0
+      Mettendorf,477,121,141,87,84,32,12
+      Muxerath,18,0,12,3,3,0,0
+      Nasingen,10,0,7,0,0,3,0
+"      Neuerburg, St.",656,219,205,112,65,33,22
+      Niedergeckler,19,6,3,7,3,0,0
+      Niederraden,14,4,4,0,3,0,3
+      Niehl,28,3,4,8,3,7,3
+      Nusbaum,188,32,58,49,31,11,7
+      Obergeckler,67,7,30,9,9,6,6
+      Plascheid,27,3,10,4,3,7,0
+      Rodershausen,78,27,10,17,15,6,3
+      Roth an der Our,95,41,37,8,6,3,0
+      Scheitenkorb,13,0,7,3,3,0,0
+      Scheuern,17,6,4,0,3,4,0
+      Sevenig bei Neuerburg,18,12,3,0,3,0,0
+      Sinspelt,175,46,56,31,33,3,6
+      Übereisenbach,37,10,18,3,3,0,3
+      Uppershausen,21,0,4,3,4,10,0
+      Utscheid,175,27,63,35,32,15,3
+      Waldhof-Falkenstein,13,0,10,0,3,0,0
+      Weidingen,81,26,24,13,15,3,0
+      Zweifelscheid,28,3,18,4,3,0,0
+      Auw bei Prüm,258,43,87,67,39,12,10
+      Bleialf,503,151,153,76,74,39,10
+      Brandscheid,118,31,20,36,12,16,3
+      Buchet,118,35,35,25,15,8,0
+      Büdesheim,253,72,91,44,33,10,3
+      Dingdorf,27,6,12,3,0,3,3
+      Feuerscheid,137,32,39,19,31,13,3
+      Fleringen,136,37,45,31,12,11,0
+      Giesdorf,54,9,18,9,6,9,3
+      Gondenbrett,200,50,58,43,33,13,3
+      Großlangenfeld,66,18,27,3,12,6,0
+      Habscheid,232,55,71,38,45,20,3
+      Heckhuscheid,61,16,22,12,0,3,8
+      Heisdorf,63,19,31,9,0,4,0
+      Hersdorf,188,37,67,38,40,6,0
+      Kleinlangenfeld,63,20,13,7,17,3,3
+      Lasel,141,36,43,25,21,10,6
+      Masthorn,13,0,7,3,3,0,0
+      Matzerath,23,9,0,8,3,0,3
+      Mützenich,62,27,14,9,6,3,3
+      Neuendorf,41,18,16,4,0,0,3
+      Niederlauch,20,0,4,13,0,0,3
+      Nimshuscheid,114,19,32,26,24,10,3
+      Nimsreuland,40,13,14,3,3,7,0
+      Oberlascheid,49,19,6,6,6,6,6
+      Oberlauch,16,4,3,0,6,3,0
+      Olzheim,234,54,73,44,35,10,18
+      Orlenbach,111,40,39,6,23,3,0
+      Pittenbach,35,12,9,7,3,4,0
+      Pronsfeld,390,106,119,66,63,27,9
+"      Prüm, St.",2480,921,709,382,300,107,61
+      Rommersheim,268,54,98,57,34,15,10
+      Roth bei Prüm,175,31,62,36,31,6,9
+      Schönecken,689,210,220,131,87,29,12
+      Schwirzheim,184,45,68,28,22,6,15
+      Seiwerath,60,15,25,7,3,3,7
+      Sellerich,125,27,37,33,6,12,10
+      Wallersheim,294,67,85,57,53,29,3
+      Watzerath,148,36,37,23,29,16,7
+      Wawern,111,19,49,11,23,3,6
+      Weinsheim,396,88,119,77,83,20,9
+      Winringen,28,4,9,0,6,9,0
+      Winterscheid,55,13,15,14,10,0,3
+      Winterspelt,341,93,101,58,47,30,12
+      Auw an der Kyll,57,12,16,15,14,0,0
+      Beilingen,164,42,65,32,19,3,3
+      Herforst,494,124,143,106,85,21,15
+      Hosten,68,6,18,12,23,6,3
+      Orenhofen,528,145,188,72,70,37,16
+      Philippsheim,54,21,18,6,6,0,3
+      Preist,297,78,103,64,33,19,0
+      Spangdahlem,358,114,128,55,52,6,3
+"      Speicher, St.",1391,453,420,254,187,71,6
+"Germersheim, St.",8899,3555,2308,1298,1078,417,243
+"Wörth am Rhein, St.",7493,2179,2704,1221,997,260,132
+      Bellheim,3595,1050,1128,705,483,149,80
+      Knittelsheim,377,63,132,78,56,45,3
+      Ottersheim bei Landau,742,171,242,136,128,47,18
+      Zeiskam,841,229,233,139,145,52,43
+      Berg Pfalz,878,214,308,170,134,39,13
+"      Hagenbach, St.",2194,550,728,419,328,118,51
+      Neuburg am Rhein,1093,269,396,240,138,37,13
+      Scheibenhardt,260,62,82,38,33,35,10
+      Hatzenbühl,1114,291,366,200,185,46,26
+      Jockgrim,2961,877,994,519,378,123,70
+      Neupotz,715,155,244,124,122,52,18
+      Rheinzabern,2030,501,699,411,291,95,33
+      Erlenbach bei Kandel,295,71,105,68,32,13,6
+      Freckenfeld,661,167,184,152,109,30,19
+"      Kandel, St.",3672,1118,1264,610,462,143,75
+      Minfeld,652,161,210,135,111,26,9
+      Steinweiler,736,158,247,141,121,43,26
+      Vollmersweiler,83,18,28,12,19,3,3
+      Winden,409,78,136,88,77,24,6
+      Freisbach,416,87,137,90,56,37,9
+      Lingenfeld,2282,586,770,423,355,84,64
+      Lustadt,1261,298,355,264,235,71,38
+      Schwegenheim,1065,218,337,212,181,65,52
+      Weingarten Pfalz,629,120,219,127,125,22,16
+      Westheim Pfalz,671,144,228,145,96,45,13
+      Hördt,1008,259,345,192,154,45,13
+      Kuhardt,794,189,289,141,129,36,10
+      Leimersheim,1091,249,388,232,160,43,19
+      Rülzheim,3333,942,1132,606,492,114,47
+      Bruchmühlbach-Miesau,3048,850,1034,512,387,123,142
+      Gerhardsbrunn,67,7,24,6,24,6,0
+      Lambsborn,302,67,104,66,44,18,3
+      Langwieden,105,43,25,9,24,0,4
+      Martinshöhe,554,113,179,137,77,31,17
+      Enkenbach-Alsenborn,2941,864,1046,515,366,109,41
+      Mehlingen,1652,509,529,285,224,78,27
+      Neuhemsbach,339,63,119,77,67,10,3
+      Sembach,493,132,163,111,69,9,9
+      Fischbach,328,80,119,67,40,19,3
+      Frankenstein,437,127,164,76,50,10,10
+      Hochspeyer,1995,563,703,380,250,66,33
+      Waldleiningen,178,33,77,19,36,13,0
+      Krickenbach,510,130,173,93,86,21,7
+      Linden,532,154,174,104,79,12,9
+      Queidersbach,1194,331,394,256,163,37,13
+      Schopp,635,178,233,107,92,15,10
+      Stelzenberg,542,148,209,90,74,12,9
+      Trippstadt,1384,465,495,202,154,56,12
+      Bann,909,250,296,165,132,54,12
+      Hauptstuhl,494,135,161,98,62,22,16
+      Kindsbach,1049,310,373,151,150,38,27
+"      Landstuhl, Sickingenstadt, St.",3953,1521,1240,615,359,139,79
+      Mittelbrunn,299,89,91,41,66,6,6
+      Oberarnbach,164,30,50,44,36,4,0
+      Frankelbach,145,43,47,31,21,3,0
+      Hirschhorn/Pfalz,333,76,124,73,43,7,10
+      Katzweiler,740,208,259,144,112,10,7
+      Mehlbach,476,123,173,89,58,26,7
+      Olsbrücken,461,113,190,72,57,17,12
+      Otterbach,1647,450,531,354,220,61,31
+      Sulzbachtal,200,55,56,41,30,18,0
+      Heiligenmoschel,261,55,82,40,61,20,3
+      Niederkirchen,830,211,280,177,112,34,16
+"      Otterberg, St.",2209,629,783,380,306,70,41
+      Schallodenbach,385,113,133,86,41,6,6
+      Schneckenhausen,234,44,92,49,43,6,0
+      Hütschenhausen,1638,440,540,339,222,75,22
+      Kottweiler-Schwanden,560,182,164,92,79,24,19
+      Niedermohr,583,151,180,134,86,15,17
+"      Ramstein-Miesenbach, St.",3408,1210,1091,524,377,123,83
+      Steinwenden,1075,299,415,154,151,39,17
+      Erzenhausen,297,68,105,62,37,25,0
+      Eulenbis,198,51,57,31,25,21,13
+      Kollweiler,200,63,56,34,32,15,0
+      Mackenbach,882,273,300,170,104,23,12
+      Reichenbach-Steegen,612,169,212,109,82,21,19
+      Rodenbach,1362,413,470,223,197,46,13
+      Schwedelbach,443,121,147,96,58,12,9
+      Weilerbach,1944,572,637,371,267,63,34
+      Altenglan,1270,345,419,292,179,23,12
+      Bedesbach,352,103,114,84,37,10,4
+      Bosenbach,311,79,114,50,45,13,10
+      Elzweiler,58,18,22,15,3,0,0
+      Erdesbach,236,46,85,56,30,13,6
+      Föckelberg,155,41,37,46,21,7,3
+      Horschbach,110,19,59,13,16,3,0
+      Neunkirchen am Potzberg,186,58,49,31,35,4,9
+      Niederalben,139,32,68,23,7,6,3
+      Niederstaufenbach,127,30,44,31,16,3,3
+      Oberstaufenbach,105,20,30,30,19,6,0
+      Rammelsbach,725,199,237,145,99,32,13
+      Rathsweiler,65,22,20,10,6,7,0
+      Rutsweiler am Glan,147,35,64,42,3,3,0
+      Ulmet,320,94,107,71,39,6,3
+      Welchweiler,91,29,34,12,7,6,3
+      Börsborn,158,35,48,36,26,13,0
+      Glan-Münchweiler,518,141,177,99,68,19,14
+      Henschtal,143,29,43,22,33,12,4
+      Herschweiler-Pettersheim,532,103,186,100,86,36,21
+      Hüffler,235,50,94,50,34,3,4
+      Krottelbach,279,55,102,62,42,12,6
+      Langenbach,193,44,69,50,12,15,3
+      Matzenbach,277,73,90,59,49,6,0
+      Nanzdietschweiler,498,137,134,112,73,30,12
+      Quirnbach/Pfalz,220,69,72,36,31,12,0
+      Rehweiler,175,32,56,50,25,3,9
+      Steinbach am Glan,403,122,134,67,59,15,6
+      Wahnwegen,282,70,87,66,40,9,10
+      Albessen,64,18,32,3,4,4,3
+      Blaubach,184,50,66,44,12,9,3
+      Dennweiler-Frohnbach,121,40,35,28,15,3,0
+      Ehweiler,72,21,15,19,17,0,0
+      Etschberg,294,78,100,73,34,9,0
+      Haschbach am Remigiusberg,300,66,112,54,40,25,3
+      Herchweiler,234,59,75,52,36,9,3
+      Konken,326,74,124,78,29,9,12
+      Körborn,147,35,48,33,22,3,6
+"      Kusel, St.",2303,787,775,410,224,56,51
+      Oberalben,103,26,31,21,13,9,3
+      Pfeffelbach,417,125,137,85,52,11,7
+      Reichweiler,231,65,57,73,33,0,3
+      Ruthweiler,210,72,69,30,26,9,4
+      Schellweiler,232,65,74,45,27,18,3
+      Selchenbach,147,25,61,28,27,6,0
+      Thallichtenberg,247,75,71,44,36,18,3
+      Theisbergstegen,309,90,110,51,41,17,0
+      Adenbach,61,6,18,19,12,0,6
+      Buborn,59,19,9,13,12,3,3
+      Cronenberg,78,27,32,9,10,0,0
+      Deimberg,37,14,9,4,7,3,0
+      Ginsweiler,130,22,54,27,18,9,0
+      Glanbrücken,202,60,46,53,34,6,3
+      Grumbach,218,60,71,55,23,6,3
+      Hausweiler,31,13,9,0,9,0,0
+      Heinzenhausen,115,29,50,24,9,3,0
+      Herren-Sulzbach,58,6,20,10,6,16,0
+      Hohenöllen,148,29,57,29,30,0,3
+      Homberg,91,18,28,24,9,6,6
+      Hoppstädten,122,25,46,32,10,3,6
+      Kappeln,65,3,12,13,27,10,0
+      Kirrweiler,76,20,35,6,12,3,0
+      Langweiler,123,39,31,19,21,6,7
+"      Lauterecken, St.",963,298,326,185,99,40,15
+      Lohnweiler,180,38,61,42,33,6,0
+      Medard,221,66,68,48,32,4,3
+      Merzweiler,75,7,35,21,0,9,3
+      Nerzweiler,52,21,13,3,12,3,0
+      Odenbach,374,100,134,73,49,18,0
+      Offenbach-Hundheim,519,152,153,95,68,35,16
+      Sankt Julian,497,145,157,101,63,19,12
+      Unterjeckenbach,31,4,6,10,8,3,0
+      Wiesweiler,177,55,51,25,30,12,4
+      Altenkirchen,560,159,161,116,98,16,10
+      Brücken Pfalz,970,255,335,194,147,32,7
+      Dittweiler,371,90,132,66,61,12,10
+      Frohnhofen,217,47,86,27,30,16,11
+      Gries,420,114,141,75,52,22,16
+      Ohmbach,331,62,102,89,45,27,6
+      Schönenberg-Kübelberg,2342,649,739,456,344,104,50
+      Breitenbach,827,242,237,178,118,36,16
+      Dunzweiler,385,89,143,88,50,15,0
+      Waldmohr,2277,736,703,411,276,98,53
+      Aschbach,136,32,46,19,21,12,6
+      Einöllen,196,56,70,36,28,0,6
+      Eßweiler,179,46,50,37,30,3,13
+      Hefersweiler,231,65,64,60,26,16,0
+      Hinzweiler,160,28,55,34,31,6,6
+      Jettenbach,377,91,155,72,40,13,6
+      Kreimbach-Kaulbach,340,79,146,61,45,6,3
+      Nußbach,254,49,88,52,38,20,7
+      Oberweiler im Tal,71,20,19,9,17,6,0
+      Oberweiler-Tiefenbach,126,27,41,31,21,6,0
+      Reipoltskirchen,132,35,49,23,16,6,3
+      Relsberg,70,17,14,24,12,3,0
+      Rothselberg,290,76,94,53,51,13,3
+      Rutsweiler an der Lauter,162,44,55,30,23,6,4
+"      Wolfstein, St.",865,265,304,139,110,38,9
+"Bingen am Rhein, gr. kr. St.",11898,4828,3965,1687,1007,275,136
+Budenheim,3876,1338,1373,560,432,113,60
+"Ingelheim a. Rh., gr. kr. St.",11226,4060,3785,1665,1204,340,172
+      Bodenheim,3156,915,1135,534,451,89,32
+      Gau-Bischofsheim,807,182,313,187,88,21,16
+      Harxheim,903,227,313,156,131,58,18
+      Lörzweiler,871,202,285,177,148,47,12
+      Nackenheim,2377,667,840,396,334,101,39
+      Appenheim,585,149,187,113,108,16,12
+      Bubenheim,364,92,101,89,70,9,3
+      Engelstadt,334,83,142,49,44,10,6
+"      Gau-Algesheim, St.",2832,806,975,480,393,113,65
+      Nieder-Hilbersheim,249,43,104,56,40,3,3
+      Ober-Hilbersheim,412,88,143,83,68,24,6
+      Ockenheim,1045,286,363,177,148,53,18
+      Schwabenheim an der Selz,1092,288,365,218,163,49,9
+      Dolgesheim,382,84,140,76,47,25,10
+      Dorn-Dürkheim,393,105,146,65,48,17,12
+      Eimsheim,226,59,73,50,32,9,3
+      Guntersblum,1595,428,569,277,210,83,28
+      Hillesheim,244,52,68,44,59,12,9
+      Ludwigshöhe,221,50,71,61,24,12,3
+      Uelversheim,413,85,146,70,71,25,16
+      Weinolsheim,265,55,89,41,58,9,13
+      Wintersheim,117,22,22,22,33,12,6
+      Heidesheim am Rhein,3036,856,1051,537,431,112,49
+      Wackernheim,1086,304,374,160,152,69,27
+      Essenheim,1390,370,463,260,212,69,16
+      Jugenheim in Rheinhessen,612,146,198,121,102,33,12
+      Klein-Winternheim,1499,386,501,296,233,62,21
+"      Nieder-Olm, St.",3876,1112,1256,685,599,159,65
+      Ober-Olm,1913,663,572,307,276,62,33
+      Sörgenloch,469,109,143,106,72,30,9
+      Stadecken-Elsheim,1908,482,650,347,310,91,28
+      Zornheim,1610,437,598,293,217,50,15
+      Dalheim,414,89,173,55,61,33,3
+      Dexheim,597,139,205,139,76,23,15
+      Dienheim,865,211,274,181,146,30,23
+      Friesenheim,278,64,94,55,49,12,4
+      Hahnheim,657,155,229,121,101,42,9
+      Köngernheim,531,86,190,115,104,22,14
+      Mommenheim,1261,304,424,251,186,69,27
+      Nierstein,3229,859,1123,546,499,133,69
+"      Oppenheim, St.",3069,929,1083,502,401,96,58
+      Selzen,646,158,226,127,98,34,3
+      Undenheim,1106,270,408,188,157,52,31
+"      Bacharach, St.",913,309,310,144,94,34,22
+      Breitscheid,65,14,38,3,10,0,0
+      Manubach,148,47,49,31,12,9,0
+      Münster-Sarmsheim,1302,409,451,211,156,57,18
+      Niederheimbach,358,119,124,48,40,21,6
+      Oberdiebach,356,77,148,58,54,13,6
+      Oberheimbach,271,80,105,53,27,3,3
+      Trechtingshausen,463,125,214,65,53,6,0
+      Waldalgesheim,1723,452,638,302,223,66,42
+      Weiler bei Bingen,1119,292,403,209,144,56,15
+      Aspisheim,404,109,155,71,48,15,6
+      Badenheim,237,72,58,49,36,16,6
+      Gensingen,1491,404,510,247,211,66,53
+      Grolsheim,473,116,156,101,71,19,10
+      Horrweiler,298,73,98,70,45,12,0
+      Sankt Johann,313,62,91,67,61,15,17
+      Sprendlingen,1672,470,568,291,220,77,46
+      Welgesheim,224,61,64,33,45,17,4
+      Wolfsheim,311,71,138,59,31,12,0
+      Zotzenheim,256,53,90,50,45,15,3
+"Andernach, gr. kr. St.",13084,4554,4480,1947,1407,462,234
+"Bendorf, St.",7640,2792,2541,1133,788,257,129
+"Mayen, gr. kr. St.",8969,3453,3085,1289,810,232,100
+      Einig,59,13,27,7,12,0,0
+      Gappenach,137,45,50,17,16,3,6
+      Gering,187,46,81,34,23,0,3
+      Gierschnach,112,27,37,27,18,3,0
+      Kalt,169,27,50,50,31,7,4
+      Kerben,185,52,54,39,24,13,3
+      Kollig,212,40,68,69,32,3,0
+      Lonnig,484,116,166,82,78,32,10
+      Mertloch,528,103,193,78,113,26,15
+"      Münstermaifeld, St.",1369,296,476,259,212,89,37
+      Naunheim,182,40,63,39,26,10,4
+      Ochtendung,2155,533,773,420,312,88,29
+      Pillig,206,47,86,29,28,6,10
+"      Polch, St.",2632,641,853,532,422,109,75
+      Rüber,375,91,135,83,49,14,3
+      Trimbs,263,72,77,63,48,3,0
+      Welling,387,94,127,101,62,0,3
+      Wierschem,136,39,52,9,20,13,3
+      Bell,632,175,237,110,101,9,0
+"      Mendig, St.",3699,1085,1296,627,495,148,48
+      Rieden,546,137,205,103,72,25,4
+      Thür,630,147,220,151,85,16,11
+      Volkesfeld,234,61,75,51,31,9,7
+      Kretz,315,80,106,62,38,13,16
+      Kruft,1706,481,626,294,205,64,36
+      Nickenich,1577,413,577,298,214,59,16
+      Plaidt,2391,683,822,415,297,105,69
+      Saffig,837,222,301,142,116,47,9
+      Brey,677,183,247,106,107,28,6
+"      Rhens, St.",1393,443,509,235,144,49,13
+      Spay,865,253,332,127,102,45,6
+      Waldesch,1015,294,345,187,134,32,23
+      Alken,307,104,113,38,40,9,3
+      Brodenbach,297,106,108,37,27,16,3
+      Burgen,342,116,107,65,44,10,0
+      Dieblich,1101,373,394,153,139,24,18
+      Hatzenport,259,77,84,52,27,19,0
+      Kobern-Gondorf,1429,440,509,216,189,49,26
+      Lehmen,582,136,210,110,88,16,22
+      Löf,635,181,229,102,94,22,7
+      Macken,152,45,55,24,20,8,0
+      Niederfell,350,101,135,54,44,3,13
+      Nörtershausen,483,131,164,80,96,12,0
+      Oberfell,501,155,193,73,54,26,0
+      Winningen,1154,393,428,174,125,19,15
+      Wolken,464,100,179,97,72,13,3
+      Niederwerth,619,195,217,83,86,34,4
+      Urbar,1490,505,531,214,167,64,9
+"      Vallendar, St.",3966,1615,1388,509,331,91,32
+      Weitersburg,1051,300,376,208,121,40,6
+      Acht,33,14,15,0,4,0,0
+      Anschau,121,25,37,31,18,6,4
+      Arft,119,44,26,21,21,4,3
+      Baar,308,81,110,38,61,12,6
+      Bermel,155,35,59,33,28,0,0
+      Boos,259,73,86,34,50,13,3
+      Ditscheid,115,28,37,28,19,0,3
+      Ettringen,1200,333,448,216,149,36,18
+      Hausten,168,35,65,44,15,9,0
+      Herresbach,203,51,62,46,35,6,3
+      Hirten,107,31,40,19,10,3,4
+      Kehrig,482,119,148,92,75,33,15
+      Kirchwald,405,84,177,69,55,17,3
+      Kottenheim,1229,359,470,202,129,60,9
+      Langenfeld,323,86,115,69,27,26,0
+      Langscheid,50,18,16,10,6,0,0
+      Lind,22,0,10,3,6,0,3
+      Luxem,113,15,44,22,32,0,0
+      Monreal,360,78,136,70,42,22,12
+      Münk,105,24,37,18,17,9,0
+      Nachtsheim,233,56,70,46,36,14,11
+      Reudelsterz,162,46,56,34,18,4,4
+      Sankt Johann,408,110,139,76,68,12,3
+      Siebenbach,79,22,30,18,6,3,0
+      Virneburg,173,54,56,25,35,0,3
+      Weiler,218,77,69,24,33,6,9
+      Welschenbach,16,4,3,3,6,0,0
+      Bassenheim,1307,396,463,214,177,39,18
+      Kaltenengers,899,275,325,147,112,31,9
+      Kettig,1406,413,488,223,190,67,25
+"      Mülheim-Kärlich, St.",4728,1444,1743,798,534,136,73
+      Sankt Sebastian,1138,407,377,178,133,28,15
+      Urmitz,1579,469,581,277,208,31,13
+"      Weißenthurm, St.",3273,1083,1042,505,404,135,104
+"Neuwied, gr. kr. St.",29073,10165,10343,4246,2839,980,500
+      Asbach,2969,799,1041,493,403,152,81
+      Buchholz Ww.,1813,442,650,305,280,88,48
+      Neustadt Wied,2653,745,949,453,342,111,53
+      Windhagen,1885,542,700,306,249,64,24
+"      Bad Hönningen, St.",2791,1035,952,397,269,78,60
+      Hammerstein,155,52,61,18,18,3,3
+      Leutesdorf,810,249,332,113,87,19,10
+      Rheinbrohl,1629,502,570,248,215,75,19
+"      Dierdorf, St.",2261,616,763,366,298,130,88
+      Großmaischeid,966,249,309,194,152,37,25
+      Isenburg,278,89,122,42,13,3,9
+      Kleinmaischeid,533,133,168,85,87,37,23
+      Marienhausen,202,49,51,34,42,23,3
+      Stebach,151,54,48,31,18,0,0
+      Dattenberg,648,172,222,109,92,37,16
+      Kasbach-Ohlenberg,583,149,227,82,84,22,19
+      Leubsdorf,746,244,269,111,82,31,9
+"      Linz am Rhein, St.",2694,953,958,382,276,77,48
+      Ockenfels,498,161,181,67,62,18,9
+      Skt. Katharinen LK Neuwied,1404,398,480,214,207,72,33
+      Vettelschoß,1444,379,511,273,209,59,13
+      Dernbach,406,106,124,85,57,24,10
+      Döttesfeld,298,83,119,42,38,13,3
+      Dürrholz,486,107,199,64,75,28,13
+      Hanroth,224,42,83,56,24,19,0
+      Harschbach,147,36,23,31,30,13,14
+      Linkenbach,198,50,63,54,22,6,3
+      Niederhofen,155,34,55,32,13,6,15
+      Niederwambach,210,52,93,27,19,13,6
+      Oberdreis,386,109,152,55,40,24,6
+      Puderbach,1021,305,346,194,121,36,19
+      Ratzert,112,42,46,6,15,3,0
+      Raubach,745,174,267,121,107,36,40
+      Rodenbach bei Puderbach,306,88,105,59,45,6,3
+      Steimel,518,155,183,72,63,32,13
+      Urbach,585,132,192,93,86,37,45
+      Woldert,243,63,66,41,49,15,9
+      Anhausen,548,152,186,96,62,18,34
+      Bonefeld,382,96,140,54,44,33,15
+      Ehlscheid,629,258,201,103,42,19,6
+      Hardert,328,88,116,68,46,7,3
+      Hümmerich,305,56,114,78,39,6,12
+      Kurtscheid,417,104,154,79,59,18,3
+      Meinborn,206,38,95,30,31,3,9
+      Melsbach,874,231,333,143,107,42,18
+      Oberhonnefeld-Gierend,405,102,139,77,48,27,12
+      Oberraden,246,45,101,45,33,16,6
+      Rengsdorf,1228,454,402,165,125,42,40
+      Rüscheid,320,67,116,48,58,19,12
+      Straßenhaus,775,201,272,150,118,28,6
+      Thalhausen,274,60,91,45,38,22,18
+      Bruchhausen,367,75,157,61,58,9,7
+      Erpel,1112,331,426,153,140,48,14
+      Rheinbreitbach,1948,554,727,311,244,87,25
+"      Unkel, St.",2104,643,725,332,293,67,44
+      Breitscheid,948,245,401,144,110,26,22
+      Datzeroth,106,27,41,19,9,4,6
+      Hausen Wied,657,194,255,90,85,20,13
+      Niederbreitbach,691,217,220,123,75,49,7
+      Roßbach,646,181,225,115,103,9,13
+      Waldbreitbach,823,279,291,119,89,32,13
+"Boppard, St.",7038,2455,2589,944,772,214,64
+      Badenhard,65,22,18,16,6,0,3
+      Beulich,217,60,75,42,37,3,0
+      Bickenbach,140,38,51,9,32,4,6
+      Birkheim,74,27,22,22,0,0,3
+      Dörth,210,39,79,40,42,10,0
+"      Emmelshausen, St.",2114,653,767,318,261,94,21
+      Gondershausen,537,137,206,94,71,13,16
+      Halsenbach,500,127,181,69,92,19,12
+      Hausbay,73,13,30,9,17,4,0
+      Hungenroth,107,30,42,7,22,6,0
+      Karbach,224,50,74,43,32,22,3
+      Kratzenburg,151,42,34,36,30,9,0
+      Leiningen,317,76,127,48,45,15,6
+      Lingerhahn,192,43,67,40,29,7,6
+      Maisborn,58,17,16,9,10,6,0
+      Mermuth,117,33,47,18,9,7,3
+      Morshausen,155,44,56,22,21,12,0
+      Mühlpfad,29,13,6,0,10,0,0
+      Ney,144,24,54,29,28,3,6
+      Niedert,64,15,19,15,8,7,0
+      Norath,206,63,63,32,42,3,3
+      Pfalzfeld,297,106,102,47,30,6,6
+      Schwall,128,19,43,18,33,9,6
+      Thörlingen,50,11,19,9,11,0,0
+      Utzenhain,46,17,16,10,0,3,0
+      Alterkülz,173,34,57,44,21,14,3
+      Bell Hunsrück,592,168,194,82,106,29,13
+      Beltheim,833,235,279,125,141,38,15
+      Braunshorn,253,58,102,51,32,10,0
+      Buch,388,114,140,62,47,16,9
+      Dommershausen,427,91,162,85,55,25,9
+      Gödenroth,184,24,65,49,28,9,9
+      Hasselbach,80,18,36,7,19,0,0
+      Hollnich,139,41,46,21,22,9,0
+"      Kastellaun, St.",2207,772,706,329,245,104,51
+      Korweiler,44,22,13,3,3,3,0
+      Mastershausen,426,112,133,78,73,15,15
+      Michelbach,68,10,22,13,6,17,0
+      Roth,90,23,26,12,16,6,7
+      Spesenroth,54,14,15,8,13,0,4
+      Uhler,165,40,48,38,26,10,3
+      Bärenbach,180,38,63,39,34,6,0
+      Belg,48,13,6,14,3,6,6
+      Büchenbeuren,707,200,229,123,95,41,19
+      Dickenschied,295,59,118,59,43,13,3
+      Dill,78,21,29,10,14,4,0
+      Dillendorf,266,75,101,52,25,13,0
+      Gehlweiler,105,24,45,10,23,0,3
+      Gemünden,507,156,172,69,68,21,21
+      Hahn,72,18,29,19,6,0,0
+      Hecken,41,4,20,7,3,3,4
+      Heinzenbach,159,22,64,36,25,9,3
+      Henau,85,31,31,13,7,3,0
+      Hirschfeld Hunsrück,126,29,47,20,18,9,3
+      Kappel,190,48,57,35,34,13,3
+"      Kirchberg Hunsrück, St.",1663,536,522,297,204,71,33
+      Kludenbach,49,11,23,9,6,0,0
+      Laufersweiler,377,98,124,77,47,12,19
+      Lautzenhausen,161,40,53,34,24,10,0
+      Lindenschied,86,22,24,13,21,3,3
+      Maitzborn,44,20,13,4,4,3,0
+      Metzenhausen,40,7,22,4,3,4,0
+      Nieder Kostenz,76,27,14,13,22,0,0
+      Niedersohren,187,62,64,30,19,9,3
+      Niederweiler,164,48,54,25,17,7,13
+      Ober Kostenz,102,20,36,20,13,13,0
+      Raversbeuren,52,18,15,7,12,0,0
+      Reckershausen,155,48,47,16,41,0,3
+      Rödelhausen,58,3,18,11,19,4,3
+      Rödern,86,35,19,11,18,3,0
+      Rohrbach,72,6,27,18,12,3,6
+      Schlierschied,83,28,23,14,9,6,3
+      Schwarzen,60,27,16,8,3,3,3
+      Sohren,1372,348,468,265,191,76,24
+      Sohrschied,42,9,18,6,9,0,0
+      Todenroth,37,8,22,0,3,0,4
+      Unzenberg,179,58,64,23,25,6,3
+      Wahlenau,72,19,29,14,3,7,0
+      Womrath,104,29,31,16,12,10,6
+      Woppenroth,99,27,30,27,6,3,6
+      Würrich,63,13,26,9,12,0,3
+      Argenthal,697,158,249,148,105,28,9
+      Benzweiler,92,21,27,25,19,0,0
+      Dichtelbach,267,69,72,54,47,9,16
+      Ellern Hunsrück,355,97,112,72,40,31,3
+      Erbach,144,49,50,21,21,3,0
+      Kisselbach,231,64,87,35,26,10,9
+      Liebshausen,216,48,84,34,47,3,0
+      Mörschbach,129,28,28,34,28,11,0
+"      Rheinböllen, St.",1747,542,643,240,221,61,40
+      Riesweiler,297,71,98,49,47,23,9
+      Schnorbach,84,14,27,19,18,3,3
+      Steinbach,57,12,14,18,7,6,0
+      Damscheid,260,73,71,43,57,13,3
+      Laudert,157,32,61,38,20,3,3
+      Niederburg,282,70,86,51,53,19,3
+"      Oberwesel, St.",1396,497,502,200,134,44,19
+      Perscheid,147,30,47,37,15,3,15
+"      Sankt Goar, St.",1330,445,475,221,151,29,9
+      Urbar,321,75,157,39,34,13,3
+      Wiebelsheim,197,54,59,41,25,15,3
+      Altweidelbach,94,19,24,27,21,3,0
+      Belgweiler,90,29,27,6,21,7,0
+      Bergenhausen,42,9,15,12,6,0,0
+      Biebern,133,31,52,13,24,10,3
+      Bubach,125,33,40,24,25,0,3
+      Budenbach,74,9,30,12,13,10,0
+      Fronhofen,91,25,32,12,15,7,0
+      Holzbach,228,60,82,40,34,12,0
+      Horn,155,43,40,37,26,9,0
+      Keidelheim,117,16,36,27,23,6,9
+      Klosterkumbd,113,37,29,19,22,6,0
+      Külz Hunsrück,209,45,67,55,23,12,7
+      Kümbdchen,200,52,76,26,34,6,6
+      Laubach,175,49,56,29,37,4,0
+      Mengerschied,340,102,126,52,45,12,3
+      Mutterschied,187,47,62,21,29,28,0
+      Nannhausen,216,46,88,49,20,13,0
+      Neuerkirch,132,40,38,29,17,0,8
+      Niederkumbd,119,27,28,33,25,0,6
+      Ohlweiler,142,28,45,37,20,9,3
+      Oppertshausen,57,19,12,14,3,6,3
+      Pleizenhausen,96,21,39,12,18,6,0
+      Ravengiersburg,157,55,65,15,12,10,0
+      Rayerschied,48,12,12,15,9,0,0
+      Reich,139,25,62,22,15,12,3
+      Riegenroth,78,14,19,22,10,7,6
+      Sargenroth,190,57,60,33,22,12,6
+      Schönborn,100,22,29,26,13,3,7
+"      Simmern/Hunsrück, St.",3400,1188,1112,493,409,131,67
+      Tiefenbach,324,75,136,43,57,7,6
+      Wahlbach,65,12,16,12,16,9,0
+      Wüschheim,108,28,32,15,17,13,3
+"Lahnstein, gr. kr. St.",8825,3482,3206,1106,750,211,70
+      Arzbach,720,186,259,142,117,12,4
+"      Bad Ems, St.",4447,1913,1434,563,346,114,77
+      Becheln,310,92,119,61,32,3,3
+      Dausenau,572,172,214,107,47,23,9
+      Fachbach,590,198,209,79,80,24,0
+      Frücht,261,64,77,50,58,9,3
+      Kemmenau,211,60,85,33,27,6,0
+      Miellen,167,46,48,37,29,7,0
+      Nievern,439,143,156,59,56,19,6
+"      Braubach, St.",1518,580,558,204,117,50,9
+      Dachsenhausen,418,110,126,83,75,18,6
+      Filsen,262,51,99,39,57,10,6
+      Kamp-Bornhofen,685,233,233,96,70,41,12
+      Osterspai,553,167,208,68,71,25,14
+      Altendiez,1002,300,365,168,110,30,29
+      Aull,192,60,70,35,18,6,3
+      Balduinstein,270,94,87,41,32,13,3
+      Birlenbach,696,213,239,127,81,27,9
+      Charlottenberg,88,37,35,12,4,0,0
+      Cramberg,203,48,47,52,35,21,0
+"      Diez, St.",4880,1858,1627,719,465,153,58
+      Dörnberg,202,49,75,31,34,9,4
+      Eppenrod,277,49,81,76,50,6,15
+      Geilnau,161,53,40,19,40,9,0
+      Gückingen,421,88,147,86,73,17,10
+      Hambach,205,49,76,21,46,10,3
+      Heistenbach,450,105,151,105,62,12,15
+      Hirschberg,158,37,55,36,21,6,3
+      Holzappel,505,161,188,86,48,16,6
+      Holzheim,366,97,124,76,54,9,6
+      Horhausen,127,23,50,34,14,3,3
+      Isselbach,160,33,52,43,29,0,3
+      Langenscheid,227,54,96,29,34,6,8
+      Laurenburg,116,31,46,19,14,6,0
+      Scheidt,142,39,43,30,12,12,6
+      Steinsberg,98,34,20,20,18,6,0
+      Wasenbach,127,31,43,21,19,10,3
+      Burgschwalbach,440,105,160,89,44,39,3
+      Flacht,452,118,147,89,74,15,9
+      Hahnstätten,1277,391,439,207,168,50,22
+      Kaltenholzhausen,232,52,100,36,37,4,3
+      Lohrheim,207,42,61,39,41,18,6
+      Mudershausen,178,47,55,37,32,7,0
+      Netzbach,154,22,53,30,28,15,6
+      Niederneisen,603,139,209,110,112,27,6
+      Oberneisen,322,81,119,63,40,16,3
+      Schiesheim,105,36,25,23,11,6,4
+      Allendorf,249,53,87,40,44,15,10
+      Berghausen,115,26,24,16,33,9,7
+      Berndroth,172,39,69,30,25,9,0
+      Biebrich,159,40,68,24,15,6,6
+      Bremberg,123,21,43,37,19,3,0
+      Dörsdorf,155,38,41,38,29,9,0
+      Ebertshausen,54,10,15,13,10,0,6
+      Eisighofen,101,33,28,16,24,0,0
+      Ergeshausen,68,16,24,15,7,6,0
+      Gutenacker,160,53,43,28,27,9,0
+      Herold,170,37,63,25,33,6,6
+"      Katzenelnbogen, St.",864,271,276,123,116,50,28
+      Klingelbach,303,90,115,45,32,18,3
+      Kördorf,235,61,79,46,37,9,3
+      Mittelfischbach,59,13,35,8,3,0,0
+      Niedertiefenbach,93,19,35,21,9,9,0
+      Oberfischbach,65,15,19,6,19,3,3
+      Reckenroth,96,24,48,15,9,0,0
+      Rettert,198,47,61,47,24,13,6
+      Roth,80,18,24,19,6,13,0
+      Schönborn,293,54,114,54,61,0,10
+      Auel,77,12,39,13,9,4,0
+      Bornich,446,117,166,72,76,12,3
+      Dahlheim,357,76,125,70,53,21,12
+      Dörscheid,186,41,81,41,16,4,3
+"      Kaub, St.",483,194,175,62,30,9,13
+      Kestert,301,105,112,38,22,24,0
+      Lierschied,218,54,95,25,35,9,0
+      Lykershausen,82,17,19,25,15,6,0
+      Nochern,198,32,70,31,46,9,10
+      Patersberg,206,64,67,40,23,6,6
+      Prath,130,29,42,38,6,9,6
+      Reichenberg,80,21,30,10,9,7,3
+      Reitzenhain,130,38,31,18,25,15,3
+"      Skt. Goarshn., Loreleyst., St.",600,206,224,64,82,12,12
+      Sauerthal,75,11,28,13,14,6,3
+      Weisel,469,125,178,72,58,21,15
+      Weyer,222,81,62,35,28,10,6
+      Attenhausen,179,35,79,30,29,6,0
+      Dessighofen,81,24,35,7,9,3,3
+      Dienethal,93,19,34,13,18,6,3
+      Dornholzhausen,94,12,34,16,26,0,6
+      Geisig,145,44,47,15,29,10,0
+      Hömberg,147,38,54,30,25,0,0
+      Lollschied,92,15,32,22,17,6,0
+      Misselberg,43,12,10,12,6,0,3
+"      Nassau, St.",1897,720,626,274,168,61,48
+      Obernhof,163,56,57,23,12,6,9
+      Oberwies,63,8,31,18,3,0,3
+      Pohl,146,33,57,25,25,6,0
+      Schweighausen,104,39,32,29,0,4,0
+      Seelbach,201,70,76,35,10,7,3
+      Singhofen,782,213,265,147,120,19,18
+      Sulzbach,85,22,29,17,13,4,0
+      Weinähr,185,49,87,28,18,0,3
+      Winden,336,110,119,50,48,9,0
+      Zimmerschied,42,16,11,11,4,0,0
+      Berg,92,22,37,14,16,3,0
+      Bettendorf,154,56,35,26,29,8,0
+      Bogel,354,104,135,54,46,9,6
+      Buch,249,76,92,40,26,11,4
+      Diethardt,109,30,51,14,7,7,0
+      Ehr,36,9,6,6,6,9,0
+      Endlichhofen,54,13,12,15,14,0,0
+      Eschbach,65,13,20,10,13,6,3
+      Gemmerich,240,54,90,46,44,6,0
+      Hainau,69,15,20,12,13,3,6
+      Himmighofen,149,38,59,32,13,3,4
+      Holzhausen an der Haide,516,165,188,72,63,25,3
+      Hunzel,113,27,40,22,24,0,0
+      Kasdorf,88,24,29,23,9,3,0
+      Kehlbach,70,15,21,20,10,4,0
+      Lautert,100,22,36,14,13,9,6
+      Lipporn,119,26,38,27,25,3,0
+      Marienfels,142,37,52,15,26,6,6
+      Miehlen,889,249,324,159,114,30,13
+"      Nastätten, St.",1804,546,628,283,215,84,48
+      Niederbachheim,117,27,47,18,16,6,3
+      Niederwallmenach,163,32,57,22,32,11,9
+      Oberbachheim,83,8,38,18,10,6,3
+      Obertiefenbach,160,46,53,21,21,16,3
+      Oberwallmenach,87,28,29,11,13,3,3
+      Oelsberg,232,65,79,49,21,12,6
+      Rettershain,139,39,45,29,22,4,0
+      Ruppertshofen,151,45,59,34,10,0,3
+      Strüth,135,26,54,23,22,7,3
+      Weidenbach,49,10,16,16,4,0,3
+      Welterod,181,52,52,50,24,3,0
+      Winterwerb,71,6,30,23,9,3,0
+Altrip,3383,896,1276,628,423,119,41
+Bobenheim-Roxheim,4394,1271,1558,797,544,143,81
+Böhl-Iggelheim,4422,1219,1675,774,549,145,60
+Lambsheim,2692,664,963,510,375,109,71
+Limburgerhof,5156,1845,1877,723,523,147,41
+Mutterstadt,5519,1612,2140,902,610,162,93
+Neuhofen,3184,992,1125,554,372,101,40
+Römerberg,3850,962,1301,754,585,168,80
+"Schifferstadt, St.",7903,2390,2649,1382,996,291,195
+      Dannstadt-Schauernheim,2878,735,1031,527,401,138,46
+      Hochdorf-Assenheim,1258,328,446,246,159,43,36
+      Rödersheim-Gronau,1222,286,466,240,176,42,12
+      Dudenhofen,2421,612,877,447,346,80,59
+      Hanhofen,889,171,295,177,145,67,34
+      Harthausen,1225,281,434,206,202,63,39
+      Beindersheim,1262,284,478,238,185,39,38
+      Großniedesheim,528,117,178,120,79,22,12
+      Heßheim,1257,268,502,237,188,37,25
+      Heuchelheim bei Frankenthal,516,118,177,117,68,24,12
+      Kleinniedesheim,358,83,104,72,62,31,6
+      Birkenheide,1350,357,497,265,169,46,16
+      Fußgönheim,1106,300,403,187,145,52,19
+      Maxdorf,2896,751,972,565,445,105,58
+      Otterstadt,1363,307,496,277,187,59,37
+      Waldsee,2396,675,836,468,316,71,30
+      Albersweiler,838,230,301,160,103,29,15
+"      Annweiler am Trifels, St.",3168,1028,1048,552,382,107,51
+      Dernbach,191,53,57,48,17,10,6
+      Eußerthal,397,102,138,103,39,6,9
+      Gossersweiler-Stein,575,151,169,106,110,30,9
+      Münchweiler am Klingbach,97,29,30,12,19,7,0
+      Ramberg,415,106,149,68,68,18,6
+      Rinnthal,258,63,86,44,53,12,0
+      Silz,296,58,118,46,51,19,4
+      Völkersweiler,242,37,102,61,32,6,4
+      Waldhambach,161,39,69,27,13,6,7
+      Waldrohrbach,174,65,62,22,18,4,3
+      Wernersberg,440,116,123,90,88,14,9
+"      Bad Bergzabern, St.",3818,1643,1330,443,264,82,56
+      Barbelroth,237,46,86,41,35,29,0
+      Birkenhördt,276,76,97,41,44,12,6
+      Böllenborn,106,31,38,18,9,7,3
+      Dierbach,220,54,56,44,57,6,3
+      Dörrenbach,416,107,163,92,39,15,0
+      Gleiszellen-Gleishorbach,334,96,128,34,63,10,3
+      Hergersweiler,86,26,32,12,9,7,0
+      Kapellen-Drusweiler,370,80,109,72,85,18,6
+      Kapsweyer,386,71,133,82,70,21,9
+      Klingenmünster,868,236,298,128,138,40,28
+      Niederhorbach,189,38,72,21,42,6,10
+      Niederotterbach,136,27,40,27,30,9,3
+      Oberhausen,190,45,53,32,41,19,0
+      Oberotterbach,519,163,181,96,48,18,13
+      Oberschlettenbach,58,12,17,26,3,0,0
+      Pleisweiler-Oberhofen,361,86,135,64,51,16,9
+      Schweigen-Rechtenbach,617,173,220,83,93,33,15
+      Schweighofen,237,57,79,44,27,23,7
+      Steinfeld,808,215,269,150,128,31,15
+      Vorderweidenthal,272,61,99,62,32,12,6
+      Altdorf,304,68,116,61,46,7,6
+      Böbingen,278,75,72,45,52,25,9
+      Burrweiler,372,111,150,47,36,19,9
+"      Edenkoben, St.",2876,918,930,500,352,119,57
+      Edesheim,981,266,348,174,128,59,6
+      Flemlingen,175,57,57,35,20,6,0
+      Freimersheim Pfalz,361,52,126,75,81,18,9
+      Gleisweiler,261,71,90,55,39,6,0
+      Gommersheim,583,117,210,115,95,30,16
+      Großfischlingen,228,35,72,58,44,16,3
+      Hainfeld,339,88,113,51,72,6,9
+      Kleinfischlingen,118,19,48,18,27,6,0
+      Rhodt unter Rietburg,495,142,184,74,64,19,12
+      Roschbach,341,80,95,68,77,12,9
+      Venningen,374,85,137,65,65,13,9
+      Weyher in der Pfalz,261,79,94,43,28,14,3
+      Herxheim bei Landau/Pfalz,4368,1343,1427,814,569,174,41
+      Herxheimweyher,224,45,78,47,33,9,12
+      Insheim,860,200,304,175,124,38,19
+      Rohrbach,676,200,237,118,81,16,24
+      Billigheim-Ingenheim,1624,409,590,301,217,75,32
+      Birkweiler,319,82,110,67,48,3,9
+      Böchingen,305,63,118,56,49,13,6
+      Eschbach,279,103,60,62,29,15,10
+      Frankweiler,389,106,142,73,44,17,7
+      Göcklingen,392,111,123,64,54,21,19
+      Heuchelheim-Klingen,355,83,115,64,55,23,15
+      Ilbesheim bei Landau i. d. Pf.,495,138,156,103,64,28,6
+      Impflingen,322,84,105,53,41,30,9
+      Knöringen,197,41,71,44,37,4,0
+      Leinsweiler,208,62,80,31,26,3,6
+      Ranschbach,258,52,90,59,38,13,6
+      Siebeldingen,429,100,148,93,68,13,7
+      Walsheim,226,52,68,40,50,13,3
+      Kirrweiler Pfalz,848,223,278,172,124,36,15
+      Maikammer,1870,588,605,296,271,72,38
+      Sankt Martin,795,225,276,146,81,46,21
+      Bornheim,582,112,219,115,102,22,12
+      Essingen,862,161,332,176,134,35,24
+      Hochstadt Pfalz,971,223,340,188,145,51,24
+      Offenbach an der Queich,2585,738,855,462,390,93,47
+      Bobenthal,151,37,57,15,31,3,8
+      Bruchweiler-Bärenbach,660,139,235,155,110,15,6
+      Bundenthal,457,85,178,104,51,29,10
+      Busenberg,567,142,191,103,93,15,23
+"      Dahn, St.",2031,691,667,332,242,77,22
+      Erfweiler,516,148,165,100,82,15,6
+      Erlenbach bei Dahn,151,33,58,12,23,22,3
+      Fischbach bei Dahn,703,195,229,144,78,38,19
+      Hirschthal,63,24,21,3,9,6,0
+      Ludwigswinkel,481,165,202,68,28,18,0
+      Niederschlettenbach,130,31,45,16,24,7,7
+      Nothweiler,66,24,24,8,7,3,0
+      Rumbach,205,55,82,38,21,6,3
+      Schindhard,231,40,83,52,37,10,9
+      Schönau Pfalz,219,76,79,32,29,3,0
+      Darstein,86,24,26,13,20,0,3
+      Dimbach,70,8,32,27,0,3,0
+      Hauenstein,1755,537,555,337,205,99,22
+      Hinterweidenthal,678,202,226,141,66,22,21
+      Lug,272,68,87,50,39,15,13
+      Schwanheim,253,68,84,25,47,13,16
+      Spirkelbach,277,61,113,50,50,0,3
+      Wilgartswiesen,442,103,189,80,51,6,13
+      Bottenbach,309,76,125,57,33,12,6
+      Eppenbrunn,627,154,217,140,94,15,7
+      Hilst,164,51,43,31,24,12,3
+      Kröppen,323,80,120,64,44,12,3
+      Lemberg,1783,513,661,348,194,42,25
+      Obersimten,274,64,118,41,41,10,0
+      Ruppertsweiler,636,147,266,131,74,12,6
+      Schweix,147,18,65,37,16,7,4
+      Trulben,553,147,213,94,75,15,9
+      Vinningen,734,198,229,167,102,32,6
+      Clausen,606,153,193,144,88,25,3
+      Donsieders,428,124,156,70,65,4,9
+      Leimen,417,101,157,72,70,14,3
+      Merzalben,541,141,200,102,70,22,6
+      Münchweiler an der Rodalb,1265,327,438,283,170,40,7
+"      Rodalben, St.",3221,1009,1085,604,368,110,45
+      Höheischweiler,385,112,140,62,57,3,11
+      Höhfröschen,389,101,134,91,45,9,9
+      Maßweiler,418,87,138,88,67,26,12
+      Nünschweiler,333,94,98,64,42,32,3
+      Petersberg,380,91,139,75,44,16,15
+      Reifenberg,344,82,124,94,27,10,7
+      Rieschweiler-Mühlbach,907,250,298,157,143,47,12
+      Thaleischweiler-Fröschen,1529,456,536,304,183,37,13
+      Geiselberg,341,77,99,79,64,19,3
+      Heltersberg,906,224,330,179,140,23,10
+      Hermersberg,713,174,244,152,116,15,12
+      Höheinöd,560,141,212,105,62,28,12
+      Horbach,227,52,71,55,31,18,0
+      Schmalenberg,334,78,116,60,61,13,6
+      Steinalben,172,40,57,32,27,13,3
+      Waldfischbach-Burgalben,2227,696,777,405,261,50,38
+      Biedershausen,78,12,22,31,6,7,0
+      Herschberg,343,74,107,101,37,18,6
+      Hettenhausen,96,21,28,26,18,3,0
+      Knopp-Labach,184,36,66,41,35,3,3
+      Krähenberg,64,26,21,4,10,0,3
+      Obernheim-Kirchenarnbach,641,119,200,149,90,47,36
+      Saalstadt,154,37,54,45,18,0,0
+      Schauerberg,73,15,26,13,12,7,0
+      Schmitshausen,182,39,59,38,40,3,3
+      Wallhalben,354,84,106,82,58,18,6
+      Weselberg,537,118,167,88,123,35,6
+      Winterbach Pfalz,220,57,72,49,29,7,6
+      Althornbach,308,79,110,61,35,17,6
+      Battweiler,300,57,104,74,46,16,3
+      Bechhofen,972,242,352,191,135,25,27
+      Contwig,2138,573,727,408,312,89,29
+      Dellfeld,581,143,192,143,69,25,9
+      Dietrichingen,160,37,62,29,23,6,3
+      Großbundenbach,143,45,33,25,19,12,9
+      Großsteinhausen,239,56,81,47,39,10,6
+"      Hornbach, St.",687,230,212,127,78,21,19
+      Käshofen,270,60,100,45,30,23,12
+      Kleinbundenbach,177,26,77,40,25,6,3
+      Kleinsteinhausen,321,83,94,70,47,24,3
+      Mauschbach,112,22,24,22,32,9,3
+      Riedelberg,200,46,70,36,31,11,6
+      Rosenkopf,157,25,78,24,23,7,0
+      Walshausen,145,37,49,28,25,0,6
+      Wiesbach,212,50,80,41,35,3,3
+      Bescheid,142,25,39,45,19,14,0
+      Beuren Hochwald,373,78,129,84,55,17,10
+      Damflos,271,56,86,70,34,22,3
+      Geisfeld,212,45,59,43,53,6,6
+      Grimburg,219,63,76,39,25,7,9
+      Gusenburg,445,83,141,87,86,41,7
+"      Hermeskeil, St.",2590,821,793,506,345,85,40
+      Hinzert-Pölert,129,42,27,28,23,6,3
+      Naurath Wald,89,21,38,9,18,0,3
+      Neuhütten,344,90,108,71,59,10,6
+      Rascheid,185,31,51,55,39,6,3
+      Reinsfeld,935,234,309,182,150,38,22
+      Züsch,272,75,76,58,44,19,0
+      Baldringen,104,13,41,28,12,7,3
+      Greimerath,414,95,137,99,56,18,9
+      Heddert,111,29,33,22,18,6,3
+      Hentern,164,44,39,42,36,3,0
+      Kell am See,848,244,285,144,124,40,11
+      Lampaden,215,41,62,43,57,6,6
+      Mandern,377,107,119,73,58,10,10
+      Paschel,95,23,26,22,15,6,3
+      Schillingen,491,124,143,85,102,34,3
+      Schömerich,40,6,14,8,8,4,0
+      Vierherrenborn,78,12,36,9,15,6,0
+      Waldweiler,348,90,105,82,52,10,9
+      Zerf,619,148,195,97,112,45,22
+      Kanzem,283,84,87,54,49,3,6
+"      Konz, St.",7737,2470,2677,1323,866,264,137
+      Nittel,1000,354,282,159,143,53,9
+      Oberbillig,433,106,175,72,54,16,10
+      Onsdorf,47,3,9,19,6,6,4
+      Pellingen,425,105,147,89,63,9,12
+      Tawern,1107,307,376,186,172,57,9
+      Temmels,305,95,86,67,50,7,0
+      Wasserliesch,973,269,327,173,154,44,6
+      Wawern,257,71,77,63,35,7,4
+      Wellen,341,115,109,55,46,13,3
+      Wiltingen,584,154,161,106,95,48,20
+      Bonerath,94,10,36,18,23,4,3
+      Farschweiler,291,67,96,70,31,19,8
+      Gusterath,818,209,292,145,127,35,10
+      Gutweiler,295,101,92,56,36,3,7
+      Herl,101,14,29,30,28,0,0
+      Hinzenburg,65,18,13,21,10,3,0
+      Holzerath,184,44,73,26,28,13,0
+      Kasel,554,167,187,110,59,25,6
+      Korlingen,354,100,137,45,53,13,6
+      Lorscheid,206,34,58,46,55,9,4
+      Mertesdorf,723,207,265,109,108,25,9
+      Morscheid,363,66,119,85,53,27,13
+      Ollmuth,66,18,19,14,15,0,0
+      Osburg,906,207,267,181,184,48,19
+      Pluwig,587,160,165,110,105,38,9
+      Riveris,175,38,63,35,17,12,10
+      Schöndorf,309,85,98,55,48,13,10
+      Sommerau,40,12,16,3,6,3,0
+      Thomm,439,99,160,72,90,15,3
+      Waldrach,886,259,303,143,145,20,16
+      Ayl,586,149,173,115,121,25,3
+      Fisch,157,32,56,26,34,6,3
+      Freudenburg,683,186,207,134,104,40,12
+      Irsch,596,129,173,137,115,29,13
+      Kastel-Staadt,166,52,48,15,30,15,6
+      Kirf,330,79,101,58,45,31,16
+      Mannebach,135,25,41,29,25,12,3
+      Merzkirchen,266,64,91,42,51,9,9
+      Ockfen,289,85,96,64,28,10,6
+      Palzem,586,162,183,112,79,41,9
+"      Saarburg, St.",2901,984,916,435,353,145,68
+      Schoden,293,62,86,60,69,16,0
+      Serrig,638,140,211,128,114,42,3
+      Taben-Rodt,321,79,105,58,55,18,6
+      Trassem,467,95,152,121,55,32,12
+      Wincheringen,706,177,193,163,138,20,15
+      Bekond,334,88,115,59,57,9,6
+      Detzem,218,43,54,53,50,6,12
+      Ensch,207,56,59,44,34,11,3
+      Fell,1042,272,340,213,158,43,16
+      Föhren,1181,358,392,194,175,37,25
+      Kenn,1190,391,406,186,166,35,6
+      Klüsserath,477,143,147,97,72,6,12
+      Köwerich,147,28,64,20,22,13,0
+      Leiwen,646,158,222,136,88,30,12
+      Longen,35,7,13,6,3,0,6
+      Longuich,584,184,198,102,63,22,15
+      Mehring,936,251,322,172,132,40,19
+      Naurath Eifel,153,40,48,31,22,6,6
+      Pölich,127,23,36,12,40,12,4
+      Riol,513,121,163,124,78,21,6
+      Schleich,79,28,26,14,11,0,0
+"      Schweich, St.",2982,928,1025,491,406,103,29
+      Thörnich,79,12,30,19,9,3,6
+      Aach,462,132,165,95,51,12,7
+      Franzenheim,152,34,47,36,21,8,6
+      Hockweiler,113,18,43,12,31,9,0
+      Igel,893,266,277,153,147,40,10
+      Kordel,972,302,348,156,113,35,18
+      Langsur,731,207,235,124,120,27,18
+      Newel,1185,283,379,267,191,49,16
+      Ralingen,857,226,250,151,160,55,15
+      Trierweiler,1524,465,495,253,201,73,37
+      Welschbillig,1069,296,313,232,155,47,26
+      Zemmer,1205,302,412,264,166,52,9
+      Betteldorf,117,33,29,24,16,9,6
+      Bleckhausen,157,38,77,16,16,10,0
+      Brockscheid,105,39,33,20,10,3,0
+      Darscheid,336,79,94,61,73,26,3
+"      Daun, St.",3735,1300,1257,544,431,140,63
+      Demerath,134,43,45,21,18,3,4
+      Deudesfeld,181,56,68,30,23,0,4
+      Dockweiler,298,81,107,47,37,19,7
+      Dreis-Brück,385,120,114,64,57,18,12
+      Ellscheid,108,40,31,18,13,3,3
+      Gefell,41,12,7,13,3,6,0
+      Gillenfeld,619,179,234,86,111,9,0
+      Hinterweiler,114,30,51,15,9,6,3
+      Hörscheid,60,22,22,9,7,0,0
+      Immerath,108,32,26,21,20,0,9
+      Kirchweiler,155,49,43,33,23,7,0
+      Kradenbach,71,23,23,6,13,3,3
+      Mehren,587,170,219,89,83,13,13
+      Meisburg,104,24,35,26,15,4,0
+      Mückeln,101,33,38,9,15,6,0
+      Nerdlen,73,13,22,13,22,0,3
+      Niederstadtfeld,202,46,68,39,41,8,0
+      Oberstadtfeld,250,55,94,46,33,19,3
+      Sarmersbach,73,12,15,27,16,3,0
+      Saxler,30,9,3,6,6,6,0
+      Schalkenmehren,295,116,92,36,26,19,6
+      Schönbach,111,29,24,30,15,10,3
+      Schutz,86,31,19,9,24,3,0
+      Steineberg,101,22,46,15,15,0,3
+      Steiningen,91,20,41,12,15,3,0
+      Strohn,214,38,99,45,22,10,0
+      Strotzbüsch,170,46,62,22,20,6,14
+      Üdersdorf,463,97,191,87,70,18,0
+      Udler,120,30,43,19,18,7,3
+      Utzerath,74,25,26,10,3,7,3
+      Wallenborn,192,57,58,25,43,6,3
+      Weidenbach,142,39,56,20,16,11,0
+      Winkel Eifel,51,3,40,4,4,0,0
+      Berlingen,110,27,34,25,18,6,0
+      Birresborn,556,167,192,95,51,32,19
+      Densborn,245,62,88,51,31,6,7
+      Duppach,131,42,40,21,15,10,3
+"      Gerolstein, St.",3361,1044,1129,562,416,147,63
+      Hohenfels-Essingen,140,36,52,19,21,9,3
+      Kalenborn-Scheuern,178,41,56,27,32,3,19
+      Kopp,98,33,36,20,6,3,0
+      Mürlenbach,303,117,97,46,30,7,6
+      Neroth,405,92,168,74,55,13,3
+      Pelm,445,152,139,56,62,27,9
+      Rockeskyll,108,28,47,6,14,10,3
+      Salm,148,45,52,24,18,9,0
+      Basberg,44,19,9,10,6,0,0
+      Berndorf,243,73,69,37,36,22,6
+      Dohm-Lammersdorf,66,9,19,19,16,3,0
+"      Hillesheim, St.",1380,436,476,195,185,61,27
+      Kerpen Eifel,230,71,72,45,30,12,0
+      Nohn,187,55,52,33,38,0,9
+      Oberbettingen,312,91,113,51,37,13,7
+      Oberehe-Stroheich,140,33,50,22,25,10,0
+      Üxheim,647,194,231,75,83,45,19
+      Walsdorf,371,102,115,58,71,22,3
+      Wiesbaum,271,58,93,47,43,21,9
+      Arbach,56,12,26,6,8,4,0
+      Beinhausen,37,9,16,9,0,3,0
+      Bereborn,56,19,18,10,6,3,0
+      Berenbach,75,24,24,9,15,3,0
+      Bodenbach,111,29,38,12,22,6,4
+      Bongard,109,25,37,26,18,3,0
+      Borler,34,6,14,10,0,4,0
+      Boxberg,90,15,24,20,22,9,0
+      Brücktal,40,15,7,9,6,3,0
+      Drees,65,13,22,15,3,9,3
+      Gelenberg,29,3,6,7,10,0,3
+      Gunderath,46,10,18,3,12,3,0
+      Höchstberg,172,51,73,23,15,6,4
+      Horperath,46,7,16,3,7,7,6
+      Hörschhausen,62,18,25,16,0,3,0
+      Kaperich,83,23,35,6,19,0,0
+      Katzwinkel,67,13,32,7,9,3,3
+      Kelberg,834,227,285,125,152,39,6
+      Kirsbach,30,7,6,8,6,3,0
+      Kolverath,63,18,12,14,15,4,0
+      Kötterichen,50,24,4,9,10,0,3
+      Lirstal,116,20,59,19,12,6,0
+      Mannebach,107,27,44,9,18,9,0
+      Mosbruch,63,15,27,18,3,0,0
+      Neichen,63,15,20,12,10,3,3
+      Nitz,15,6,3,3,3,0,0
+      Oberelz,64,20,29,9,3,3,0
+      Reimerath,23,4,8,3,4,4,0
+      Retterath,145,48,50,20,14,6,7
+      Sassen,39,16,9,7,7,0,0
+      Uersfeld,300,95,85,57,54,9,0
+      Ueß,22,6,10,3,3,0,0
+      Welcherath,60,22,14,12,12,0,0
+      Birgel,205,62,65,31,33,14,0
+      Esch,218,64,84,27,28,12,3
+      Feusdorf,259,71,103,43,30,6,6
+      Gönnersdorf,247,79,97,23,27,9,12
+      Hallschlag,207,59,66,42,22,18,0
+      Jünkerath,757,256,283,115,73,21,9
+      Kerschenbach,128,26,65,10,20,7,0
+      Lissendorf,563,157,234,87,55,27,3
+      Ormont,170,46,48,29,38,6,3
+      Reuth,85,16,36,9,6,15,3
+      Scheid,54,7,20,17,3,0,7
+      Schüller,139,32,57,31,16,3,0
+      Stadtkyll,656,203,225,107,82,24,15
+      Steffeln,257,63,77,46,49,12,10
+"      Bad Marienberg Ww., St.",2508,804,910,369,268,101,56
+      Bölsberg,117,26,60,19,3,9,0
+      Dreisbach,255,71,87,39,45,13,0
+      Fehl-Ritzhausen,304,58,111,51,48,20,16
+      Großseifen,236,51,85,46,42,3,9
+      Hahn bei Marienberg,178,37,63,25,38,12,3
+      Hardt,188,48,54,37,43,3,3
+      Hof,498,127,150,102,84,32,3
+      Kirburg,239,53,91,48,25,6,16
+      Langenbach bei Kirburg,364,95,124,66,61,15,3
+      Lautzenbrücken,150,40,43,37,11,16,3
+      Mörlen,223,46,68,46,42,12,9
+      Neunkhausen,415,73,121,108,69,23,21
+      Nisterau,351,83,108,69,47,21,23
+      Nistertal,532,157,185,81,81,9,19
+      Norken,412,92,147,95,53,10,15
+      Stockhausen-Illfurth,195,50,68,35,33,6,3
+      Unnau,809,220,289,133,102,53,12
+      Alpenrod,669,188,218,131,94,31,7
+      Astert,108,30,34,20,9,12,3
+      Atzelgift,283,84,99,38,44,7,11
+      Borod,215,54,72,34,42,3,10
+      Dreifelden,98,21,42,6,19,6,4
+      Gehlert,241,65,65,48,48,9,6
+      Giesenhausen,142,40,31,36,29,6,0
+"      Hachenburg, St.",2717,980,922,380,288,95,52
+      Hattert,709,158,264,110,132,36,9
+      Heimborn,114,26,42,16,18,9,3
+      Heuzert,56,9,18,19,7,3,0
+      Höchstenbach,282,80,105,57,31,0,9
+      Kroppach,286,93,104,49,28,3,9
+      Kundert,115,19,39,30,21,3,3
+      Limbach,176,49,52,31,23,15,6
+      Linden,60,9,29,10,6,6,0
+      Lochum,150,40,55,34,18,0,3
+      Luckenbach,256,57,81,70,36,12,0
+      Marzhausen,106,25,39,29,10,3,0
+      Merkelbach,176,32,83,39,12,6,4
+      Mörsbach,189,44,51,36,37,15,6
+      Mudenbach,309,71,113,56,47,7,15
+      Mündersbach,321,102,94,57,44,10,14
+      Müschenbach,412,92,143,89,50,32,6
+      Nister,434,136,163,78,42,6,9
+      Roßbach,346,92,98,76,54,19,7
+      Steinebach an der Wied,331,76,115,88,40,9,3
+      Stein-Wingert,71,25,36,7,3,0,0
+      Streithausen,206,38,69,47,34,15,3
+      Wahlrod,342,95,115,54,44,22,12
+      Welkenbach,66,17,42,4,3,0,0
+      Wied,208,54,77,32,24,15,6
+      Winkelbach,90,16,31,25,15,3,0
+      Hilgert,646,175,239,100,111,17,4
+      Hillscheid,1112,325,434,174,123,38,18
+"      Höhr-Grenzhausen, St.",4061,1408,1301,579,519,178,76
+      Kammerforst,119,43,19,38,19,0,0
+      Boden,237,54,67,49,37,23,7
+      Daubach,180,36,73,40,20,7,4
+      Eitelborn,1085,286,402,209,142,34,12
+      Gackenbach,225,59,91,39,26,6,4
+      Girod,485,109,174,97,68,28,9
+      Görgeshausen,329,71,114,43,82,10,9
+      Großholbach,373,68,111,87,67,34,6
+      Heilberscheid,274,76,89,36,37,33,3
+      Heiligenroth,579,134,192,124,105,15,9
+      Holler,446,113,151,114,53,9,6
+      Horbach,248,67,65,52,42,16,6
+      Hübingen,226,45,94,40,27,14,6
+      Kadenbach,608,156,219,123,88,15,7
+"      Montabaur, St.",5726,2003,1947,883,678,168,47
+      Nentershausen,845,237,277,145,137,33,16
+      Neuhäusel,888,222,329,165,125,32,15
+      Niederelbert,715,208,244,113,110,28,12
+      Niedererbach,431,107,154,78,77,12,3
+      Nomborn,292,66,89,54,74,9,0
+      Oberelbert,438,101,133,105,73,26,0
+      Ruppach-Goldhausen,472,101,146,98,100,15,12
+      Simmern,619,162,246,102,99,10,0
+      Stahlhofen,281,52,105,48,60,13,3
+      Untershausen,201,38,82,43,25,6,7
+      Welschneudorf,410,107,159,77,57,6,4
+      Alsbach,275,85,97,53,37,0,3
+      Breitenau,281,78,92,55,43,4,9
+      Caan,256,38,93,50,56,13,6
+      Deesen,278,80,77,61,41,16,3
+      Hundsdorf,166,52,30,38,34,9,3
+      Nauort,973,247,316,209,153,41,7
+      Oberhaid,163,33,72,21,22,12,3
+"      Ransbach-Baumbach, St.",3109,961,941,542,419,153,93
+      Sessenbach,205,57,71,29,37,8,3
+      Wirscheid,141,34,41,34,29,3,0
+      Wittgert,257,59,75,57,60,3,3
+      Bretthausen,75,15,29,16,12,3,0
+      Elsoff Ww.,385,107,119,69,54,13,23
+      Hellenhahn-Schellenberg,510,120,166,99,101,16,8
+      Homberg,71,16,22,10,13,10,0
+      Hüblingen,128,31,33,30,28,3,3
+      Irmtraut,296,71,76,75,45,19,10
+      Liebenscheid,336,75,120,66,41,28,6
+      Neunkirchen,212,49,67,42,39,9,6
+      Neustadt/Westerwald,230,50,71,40,53,13,3
+      Niederroßbach,287,54,103,49,57,9,15
+      Nister-Möhrendorf,133,33,64,10,7,9,10
+      Oberrod,270,53,98,49,39,22,9
+      Oberroßbach,119,36,40,22,12,6,3
+      Rehe,370,78,130,59,45,27,31
+"      Rennerod, St.",1645,476,521,300,216,84,48
+      Salzburg,83,16,22,20,9,10,6
+      Seck,493,123,167,92,72,33,6
+      Stein-Neukirch,161,35,46,42,28,6,4
+      Waigandshain,85,16,25,22,12,3,7
+      Waldmühlen,133,27,30,28,23,25,0
+      Westernohe,386,97,111,81,73,15,9
+      Willingen,101,12,30,21,35,3,0
+      Zehnhausen bei Rennerod,150,24,56,23,34,6,7
+      Ellenhausen,117,23,36,26,20,9,3
+      Ewighausen,99,20,37,27,12,0,3
+      Freilingen,309,95,108,54,27,19,6
+      Freirachdorf,259,53,94,54,31,21,6
+      Goddert,183,55,48,42,25,3,10
+      Hartenfels,307,67,93,50,72,19,6
+      Herschbach,1196,295,455,224,145,47,30
+      Krümmel,133,44,23,32,22,12,0
+      Marienrachdorf,405,109,121,93,66,16,0
+      Maroth,89,20,14,16,21,9,9
+      Maxsain,430,121,142,74,62,19,12
+      Nordhofen,214,46,83,34,31,9,11
+      Quirnbach,203,42,74,32,43,9,3
+      Rückeroth,217,68,72,33,29,9,6
+      Schenkelberg,267,71,102,40,39,12,3
+"      Selters Ww., St.",1170,363,360,196,150,51,50
+      Sessenhausen,385,111,115,60,72,18,9
+      Steinen,96,22,18,24,19,10,3
+      Vielbach,235,53,91,41,29,12,9
+      Weidenhahn,208,39,79,27,46,14,3
+      Wölferlingen,213,55,74,43,29,3,9
+      Arnshöfen,70,12,19,20,13,3,3
+      Berod bei Wallmerod,217,56,66,54,29,9,3
+      Bilkheim,188,39,63,42,30,11,3
+      Dreikirchen,417,101,137,87,55,28,9
+      Elbingen,128,43,28,12,28,10,7
+      Ettinghausen,131,42,28,29,26,6,0
+      Hahn am See,172,49,55,39,19,10,0
+      Herschbach Oww.,377,83,128,80,61,19,6
+      Hundsangen,819,183,290,144,145,42,15
+      Kuhnhöfen,72,18,29,15,10,0,0
+      Mähren,93,18,32,15,15,6,7
+      Meudt,750,179,244,151,114,46,16
+      Molsberg,178,45,75,11,38,6,3
+      Niederahr,335,86,121,58,45,12,13
+      Oberahr,239,49,88,31,52,19,0
+      Obererbach,227,63,77,40,44,3,0
+      Salz,350,85,110,71,59,19,6
+      Steinefrenz,288,55,73,92,49,12,7
+      Wallmerod,544,144,167,92,107,24,10
+      Weroth,238,47,77,37,46,25,6
+      Zehnhausen bei Wallmerod,77,27,16,9,25,0,0
+      Ailertchen,245,51,69,46,45,10,24
+      Bellingen,255,69,98,31,39,8,10
+      Berzhahn,199,58,60,26,42,10,3
+      Brandscheid,188,35,65,45,37,3,3
+      Enspel,116,31,27,29,17,9,3
+      Gemünden,414,75,159,79,65,26,10
+      Girkenroth,226,44,78,39,45,14,6
+      Guckheim,372,82,118,94,66,6,6
+      Halbs,123,28,41,25,20,6,3
+      Härtlingen,160,22,53,27,40,15,3
+      Hergenroth,195,58,58,41,32,6,0
+      Höhn,1284,312,435,256,206,41,34
+      Kaden,262,66,92,54,38,9,3
+      Kölbingen,385,81,127,74,61,27,15
+      Langenhahn,560,138,190,107,79,31,15
+      Pottum,433,128,138,81,53,19,14
+      Rotenhain,212,39,70,51,33,16,3
+      Rothenbach,355,93,106,75,57,24,0
+      Stahlhofen am Wiesensee,143,53,23,34,19,7,7
+      Stockum-Püschen,288,72,85,74,48,6,3
+      Weltersburg,108,23,43,29,3,10,0
+"      Westerburg, St.",2401,752,739,441,310,104,55
+      Willmenrod,276,81,101,55,26,10,3
+      Winnen,202,51,83,43,16,6,3
+      Bannberscheid,279,86,84,57,45,7,0
+      Dernbach Ww.,975,287,332,166,149,35,6
+      Ebernhahn,517,139,172,108,70,18,10
+      Helferskirchen,465,119,160,94,70,10,12
+      Leuterod,341,71,106,63,58,25,18
+      Mogendorf,482,124,176,94,60,22,6
+      Moschheim,307,65,97,57,69,10,9
+      Niedersayn,79,15,24,28,9,3,0
+      Ötzingen,551,138,150,106,119,29,9
+      Siershahn,1138,284,400,219,139,60,36
+      Staudt,444,79,155,122,69,12,7
+"      Wirges, St.",2207,656,722,378,300,94,57
