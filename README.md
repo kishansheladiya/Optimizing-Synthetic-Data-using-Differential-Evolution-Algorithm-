@@ -66,4 +66,10 @@ Key files include Python scripts and Jupyter Notebooks for analysis and visualiz
 - **Required Libraries**: Install dependencies using:
   ```bash
   pip install numpy pandas matplotlib
+### Optional: Jupyter Notebook
+
+For an interactive experience, install Jupyter Notebook:
+
+```bash
+pip install jupyter
 
