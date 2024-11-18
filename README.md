@@ -45,3 +45,25 @@ python your_script.py
 
 After running "num_person variable with comparision graph" file, the script/notebook will generate boxplots, which will be displayed in the output based on the code, and comparision bar graph between the proportion of optimal synthetic solution and empitrical data show.
 After running the other all File, the script/notebook will generate boxplots, which will be displayed in the output based on the code.
+
+
+readme_content = """
+# Optimizing Synthetic Data Using Differential Evolution Algorithm
+
+## Overview
+This repository implements a **Differential Evolution Algorithm (DEA)** to optimize synthetic household data. The project demonstrates the creation of synthetic datasets that closely resemble real-world demographic distributions. The primary objective is to fine-tune the DEA for efficient optimization and compare the generated synthetic data with empirical data.
+
+Key files include Python scripts and Jupyter Notebooks for analysis and visualization:
+- **The `num_person variable with comparison graph` Notebook** highlights the comparison between the optimal synthetic solution and empirical data proportions.
+- Additional files demonstrate parameter analysis and algorithm behavior via box plots.
+
+---
+
+## Prerequisites
+
+### Python and Libraries
+- **Python (3.8 or higher)**: Install from [python.org](https://www.python.org/downloads/).
+- **Required Libraries**: Install dependencies using:
+  ```bash
+  pip install numpy pandas matplotlib
+
