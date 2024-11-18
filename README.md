@@ -75,7 +75,7 @@ pip install jupyter
 
 ---
 
-## Dataset
+**## Dataset**
 
 1. Download the `Household_data.csv` dataset and place it in the project directory.
 2. Ensure the dataset format aligns with the code. It should include household configurations as described in the methodology section.
